@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="no-js">
     <head>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
         <!-- Basic Page Needs
         ================================================== -->
         <meta charset="utf-8">
@@ -8,12 +9,19 @@
         ================================================== -->
         <meta name="HandheldFriendly" content="True">
         <meta name="MobileOptimized" content="320">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- Title and meta description
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Title and meta description
         ================================================== -->
-        <title>{% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-        <meta property="og:title" content="U.S. Data Federation">
+        {% assign goal = site.data.sdg_goals | where: "goal", page.sdg_goal | first %}
+        {% capture page_title %}
+        Indicator {{ page.indicator }} - Goal {{ goal.goal }} - {{ goal.short }}
+        {% endcapture %}
+        <title>{% if page.indicator %}{{ page_title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
         <meta name="description" content="">
         <meta property="og:description" content="">
+        {% if site.environment == 'staging' %}
+        <meta name="robots" content="noindex, nofollow">
+        {% endif %}
         <link rel="canonical" href="/">
 
         {% comment %}
@@ -24,6 +32,10 @@
         <![endif]-->
         {% endcomment %}
 
+        <!--[if IE 9]>
+        <script src="{{ site.baseurl }}/assets/js/lib/classList.js"></script>
+        <![endif]-->
+        
         <!-- Favicons ================================================== -->
         <!-- 128x128 -->
         <link rel="shortcut icon" type="image/ico" href="{{ site.baseurl }}/assets/img/favicons/favicon.ico">
@@ -43,6 +55,7 @@
         {% assign cache_bust = site.time | date: "%Y%m%d%H%M%S" %}
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css">
         <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/default.css?v={{ cache_bust }}">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
     </head>

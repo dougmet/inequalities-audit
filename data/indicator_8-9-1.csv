@@ -1,976 +1,696 @@
-Year,Units,Type of tourism expenditure,Type of Visitor,Origin of Tourist,Value
-2013,Percentage of GDP,Accommodation services for visitors,"Tourists
-(overnight visitors)",Inbound,0.317855691
-2013,Percentage of GDP,Food and beverage serving activities,"Tourists
-(overnight visitors)",Inbound,0.214002022
-2013,Percentage of GDP,Railway passenger transport services,"Tourists
-(overnight visitors)",Inbound,0.022948292
-2013,Percentage of GDP,Road passenger transport services,"Tourists
-(overnight visitors)",Inbound,0.029915559
-2013,Percentage of GDP,Water passenger transport services,"Tourists
-(overnight visitors)",Inbound,0.024121001
-2013,Percentage of GDP,Air passenger transport services,"Tourists
-(overnight visitors)",Inbound,0.166794764
-2013,Percentage of GDP,Transport equipment rental services,"Tourists
-(overnight visitors)",Inbound,0.00719721
-2013,Percentage of GDP,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Inbound,0.006386661
-2013,Percentage of GDP,Cultural activities,"Tourists
-(overnight visitors)",Inbound,0.01254338
-2013,Percentage of GDP,Sport and recreation activities,"Tourists
-(overnight visitors)",Inbound,0.009692089
-2013,Percentage of GDP,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Inbound,0.007593861
-2013,Percentage of GDP,Other consumption products,"Tourists
-(overnight visitors)",Inbound,0.580582595
-2013,Percentage of GDP,,"Tourists
-(overnight visitors)",Inbound,1.399633126
-2013,Percentage of GDP,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Inbound,0
-2013,Percentage of GDP,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Inbound,0.00208
-2013,Percentage of GDP,Railway passenger transport services,"Excursionists
-(same-day visitors)",Inbound,0.0022
-2013,Percentage of GDP,Road passenger transport services,"Excursionists
-(same-day visitors)",Inbound,0.00029
-2013,Percentage of GDP,Water passenger transport services,"Excursionists
-(same-day visitors)",Inbound,0.00197
-2013,Percentage of GDP,Air passenger transport services,"Excursionists
-(same-day visitors)",Inbound,0.0219
-2013,Percentage of GDP,Transport equipment rental services,"Excursionists
-(same-day visitors)",Inbound,0.00007
-2013,Percentage of GDP,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Inbound,0.00006
-2013,Percentage of GDP,Cultural activities,"Excursionists
-(same-day visitors)",Inbound,0.00012
-2013,Percentage of GDP,Sport and recreation activities,"Excursionists
-(same-day visitors)",Inbound,0.00009
-2013,Percentage of GDP,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Inbound,0.00007
-2013,Percentage of GDP,Other consumption products,"Excursionists
-(same-day visitors)",Inbound,0.00565
-2013,Percentage of GDP,,"Excursionists
-(same-day visitors)",Inbound,0.03451
-2013,Percentage of GDP,Accommodation services for visitors,,Inbound,0.317855691
-2013,Percentage of GDP,Food and beverage serving activities,,Inbound,0.216083005
-2013,Percentage of GDP,Railway passenger transport services,,Inbound,0.025149995
-2013,Percentage of GDP,Road passenger transport services,,Inbound,0.030208736
-2013,Percentage of GDP,Water passenger transport services,,Inbound,0.026087012
-2013,Percentage of GDP,Air passenger transport services,,Inbound,0.188691068
-2013,Percentage of GDP,Transport equipment rental services,,Inbound,0.007266193
-2013,Percentage of GDP,Travel agencies and other reservation services,,Inbound,0.006449896
-2013,Percentage of GDP,Cultural activities,,Inbound,0.012669849
-2013,Percentage of GDP,Sport and recreation activities,,Inbound,0.009784066
-2013,Percentage of GDP,Exhibitions & Conferences etc.,,Inbound,0.007668593
-2013,Percentage of GDP,Other consumption products,,Inbound,0.586227691
-2013,Percentage of GDP,,,Inbound,1.434141793
-2013,Percentage of GDP,Accommodation services for visitors,"Tourists
-(overnight visitors)",Domestic,0.470485978
-2013,Percentage of GDP,Food and beverage serving activities,"Tourists
-(overnight visitors)",Domestic,0.276282032
-2013,Percentage of GDP,Railway passenger transport services,"Tourists
-(overnight visitors)",Domestic,0.050311486
-2013,Percentage of GDP,Road passenger transport services,"Tourists
-(overnight visitors)",Domestic,0.0152797
-2013,Percentage of GDP,Water passenger transport services,"Tourists
-(overnight visitors)",Domestic,0.012997517
-2013,Percentage of GDP,Air passenger transport services,"Tourists
-(overnight visitors)",Domestic,0.016050008
-2013,Percentage of GDP,Transport equipment rental services,"Tourists
-(overnight visitors)",Domestic,0.0118593
-2013,Percentage of GDP,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Domestic,0.054645908
-2013,Percentage of GDP,Cultural activities,"Tourists
-(overnight visitors)",Domestic,0.050432206
-2013,Percentage of GDP,Sport and recreation activities,"Tourists
-(overnight visitors)",Domestic,0.032962301
-2013,Percentage of GDP,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Domestic,0.005133473
-2013,Percentage of GDP,Other consumption products,"Tourists
-(overnight visitors)",Domestic,0.392265184
-2013,Percentage of GDP,,"Tourists
-(overnight visitors)",Domestic,1.388699346
-2013,Percentage of GDP,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Domestic,0
-2013,Percentage of GDP,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Domestic,1.2809309
-2013,Percentage of GDP,Railway passenger transport services,"Excursionists
-(same-day visitors)",Domestic,0.139161387
-2013,Percentage of GDP,Road passenger transport services,"Excursionists
-(same-day visitors)",Domestic,0.075846635
-2013,Percentage of GDP,Water passenger transport services,"Excursionists
-(same-day visitors)",Domestic,0.040389454
-2013,Percentage of GDP,Air passenger transport services,"Excursionists
-(same-day visitors)",Domestic,0.031059525
-2013,Percentage of GDP,Transport equipment rental services,"Excursionists
-(same-day visitors)",Domestic,0.017895299
-2013,Percentage of GDP,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Domestic,0.01821147
-2013,Percentage of GDP,Cultural activities,"Excursionists
-(same-day visitors)",Domestic,0.248355478
-2013,Percentage of GDP,Sport and recreation activities,"Excursionists
-(same-day visitors)",Domestic,0.147663522
-2013,Percentage of GDP,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Domestic,0.021074258
-2013,Percentage of GDP,Other consumption products,"Excursionists
-(same-day visitors)",Domestic,1.101816951
-2013,Percentage of GDP,,"Excursionists
-(same-day visitors)",Domestic,3.12240488
-2013,Percentage of GDP,Accommodation services for visitors,,Domestic,0.470485978
-2013,Percentage of GDP,Food and beverage serving activities,,Domestic,1.557212932
-2013,Percentage of GDP,Railway passenger transport services,,Domestic,0.189467125
-2013,Percentage of GDP,Road passenger transport services,,Domestic,0.091126335
-2013,Percentage of GDP,Water passenger transport services,,Domestic,0.053386971
-2013,Percentage of GDP,Air passenger transport services,,Domestic,0.047109533
-2013,Percentage of GDP,Transport equipment rental services,,Domestic,0.029754599
-2013,Percentage of GDP,Travel agencies and other reservation services,,Domestic,0.072857379
-2013,Percentage of GDP,Cultural activities,,Domestic,0.298793433
-2013,Percentage of GDP,Sport and recreation activities,,Domestic,0.180625824
-2013,Percentage of GDP,Exhibitions & Conferences etc.,,Domestic,0.026207731
-2013,Percentage of GDP,Other consumption products,,Domestic,1.494087883
-2013,Percentage of GDP,,,Domestic,4.511104226
-2013,Percentage of GDP,Accommodation services for visitors,"Tourists
-(overnight visitors)",Outbound,0.035531912
-2013,Percentage of GDP,Food and beverage serving activities,"Tourists
-(overnight visitors)",Outbound,0.033284221
-2013,Percentage of GDP,Railway passenger transport services,"Tourists
-(overnight visitors)",Outbound,0.031530907
-2013,Percentage of GDP,Road passenger transport services,"Tourists
-(overnight visitors)",Outbound,0.03992382
-2013,Percentage of GDP,Water passenger transport services,"Tourists
-(overnight visitors)",Outbound,0.02203427
-2013,Percentage of GDP,Air passenger transport services,"Tourists
-(overnight visitors)",Outbound,0.906796707
-2013,Percentage of GDP,Transport equipment rental services,"Tourists
-(overnight visitors)",Outbound,0
-2013,Percentage of GDP,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Outbound,0.095886151
-2013,Percentage of GDP,Cultural activities,"Tourists
-(overnight visitors)",Outbound,0
-2013,Percentage of GDP,Sport and recreation activities,"Tourists
-(overnight visitors)",Outbound,0
-2013,Percentage of GDP,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Outbound,0
-2013,Percentage of GDP,Other consumption products,"Tourists
-(overnight visitors)",Outbound,0.336711002
-2013,Percentage of GDP,,"Tourists
-(overnight visitors)",Outbound,1.50169899
-2013,Percentage of GDP,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Outbound,0
-2013,Percentage of GDP,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Outbound,0.00019
-2013,Percentage of GDP,Railway passenger transport services,"Excursionists
-(same-day visitors)",Outbound,0.002828
-2013,Percentage of GDP,Road passenger transport services,"Excursionists
-(same-day visitors)",Outbound,0.000224
-2013,Percentage of GDP,Water passenger transport services,"Excursionists
-(same-day visitors)",Outbound,0.001903
-2013,Percentage of GDP,Air passenger transport services,"Excursionists
-(same-day visitors)",Outbound,0.007749
-2013,Percentage of GDP,Transport equipment rental services,"Excursionists
-(same-day visitors)",Outbound,0
-2013,Percentage of GDP,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Outbound,0
-2013,Percentage of GDP,Cultural activities,"Excursionists
-(same-day visitors)",Outbound,0
-2013,Percentage of GDP,Sport and recreation activities,"Excursionists
-(same-day visitors)",Outbound,0
-2013,Percentage of GDP,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Outbound,0
-2013,Percentage of GDP,Other consumption products,"Excursionists
-(same-day visitors)",Outbound,0.001909
-2013,Percentage of GDP,,"Excursionists
-(same-day visitors)",Outbound,0.014803
-2013,Percentage of GDP,Accommodation services for visitors,,Outbound,0.035532
-2013,Percentage of GDP,Food and beverage serving activities,,Outbound,0.033474
-2013,Percentage of GDP,Railway passenger transport services,,Outbound,0.034359
-2013,Percentage of GDP,Road passenger transport services,,Outbound,0.040148
-2013,Percentage of GDP,Water passenger transport services,,Outbound,0.023931
-2013,Percentage of GDP,Air passenger transport services,,Outbound,0.914546
-2013,Percentage of GDP,Transport equipment rental services,,Outbound,0
-2013,Percentage of GDP,Travel agencies and other reservation services,,Outbound,0.095886
-2013,Percentage of GDP,Cultural activities,,Outbound,0
-2013,Percentage of GDP,Sport and recreation activities,,Outbound,0
-2013,Percentage of GDP,Exhibitions & Conferences etc.,,Outbound,0
-2013,Percentage of GDP,Other consumption products,,Outbound,0.33862
-2013,Percentage of GDP,,,Outbound,1.516502
-2013,Percentage of GDP,Accommodation services for visitors,"Tourists
-(overnight visitors)",Domestic and Outbound,0.506017891
-2013,Percentage of GDP,Food and beverage serving activities,"Tourists
-(overnight visitors)",Domestic and Outbound,0.309566253
-2013,Percentage of GDP,Railway passenger transport services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.081836645
-2013,Percentage of GDP,Road passenger transport services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.05520352
-2013,Percentage of GDP,Water passenger transport services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.035026038
-2013,Percentage of GDP,Air passenger transport services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.922846715
-2013,Percentage of GDP,Transport equipment rental services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.0118593
-2013,Percentage of GDP,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.150532059
-2013,Percentage of GDP,Cultural activities,"Tourists
-(overnight visitors)",Domestic and Outbound,0.050432206
-2013,Percentage of GDP,Sport and recreation activities,"Tourists
-(overnight visitors)",Domestic and Outbound,0.032962301
-2013,Percentage of GDP,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Domestic and Outbound,0.005133473
-2013,Percentage of GDP,Other consumption products,"Tourists
-(overnight visitors)",Domestic and Outbound,0.728981934
-2013,Percentage of GDP,,"Tourists
-(overnight visitors)",Domestic and Outbound,2.890398336
-2013,Percentage of GDP,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Domestic and Outbound,0
-2013,Percentage of GDP,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Domestic and Outbound,1.281120603
-2013,Percentage of GDP,Railway passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.141989684
-2013,Percentage of GDP,Road passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.076076578
-2013,Percentage of GDP,Water passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.042292231
-2013,Percentage of GDP,Air passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.038808597
-2013,Percentage of GDP,Transport equipment rental services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.017895299
-2013,Percentage of GDP,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.01821147
-2013,Percentage of GDP,Cultural activities,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.248355478
-2013,Percentage of GDP,Sport and recreation activities,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.147663522
-2013,Percentage of GDP,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.021074258
-2013,Percentage of GDP,Other consumption products,"Excursionists
-(same-day visitors)",Domestic and Outbound,1.103725476
-2013,Percentage of GDP,,"Excursionists
-(same-day visitors)",Domestic and Outbound,3.1372017
-2013,Percentage of GDP,Accommodation services for visitors,,Domestic and Outbound,0.506017891
-2013,Percentage of GDP,Food and beverage serving activities,,Domestic and Outbound,1.590681108
-2013,Percentage of GDP,Railway passenger transport services,,Domestic and Outbound,0.223826329
-2013,Percentage of GDP,Road passenger transport services,,Domestic and Outbound,0.131274349
-2013,Percentage of GDP,Water passenger transport services,,Domestic and Outbound,0.077318269
-2013,Percentage of GDP,Air passenger transport services,,Domestic and Outbound,0.961655312
-2013,Percentage of GDP,Transport equipment rental services,,Domestic and Outbound,0.029754599
-2013,Percentage of GDP,Travel agencies and other reservation services,,Domestic and Outbound,0.168743529
-2013,Percentage of GDP,Cultural activities,,Domestic and Outbound,0.298793433
-2013,Percentage of GDP,Sport and recreation activities,,Domestic and Outbound,0.180625824
-2013,Percentage of GDP,Exhibitions & Conferences etc.,,Domestic and Outbound,0.026207731
-2013,Percentage of GDP,Other consumption products,,Domestic and Outbound,1.83270741
-2013,Percentage of GDP,,,Domestic and Outbound,6.027600035
-2013,Percentage of GDP,Accommodation services for visitors,"Tourists
-(overnight visitors)",,1.329891473
-2013,Percentage of GDP,Food and beverage serving activities,"Tourists
-(overnight visitors)",,0.833134529
-2013,Percentage of GDP,Railway passenger transport services,"Tourists
-(overnight visitors)",,0.186627331
-2013,Percentage of GDP,Road passenger transport services,"Tourists
-(overnight visitors)",,0.140322598
-2013,Percentage of GDP,Water passenger transport services,"Tourists
-(overnight visitors)",,0.094178825
-2013,Percentage of GDP,Air passenger transport services,"Tourists
-(overnight visitors)",,2.012488194
-2013,Percentage of GDP,Transport equipment rental services,"Tourists
-(overnight visitors)",,0.03091581
-2013,Percentage of GDP,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",,0.307450779
-2013,Percentage of GDP,Cultural activities,"Tourists
-(overnight visitors)",,0.113407793
-2013,Percentage of GDP,Sport and recreation activities,"Tourists
-(overnight visitors)",,0.075616692
-2013,Percentage of GDP,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",,0.017860808
-2013,Percentage of GDP,Other consumption products,"Tourists
-(overnight visitors)",,2.038540714
-2013,Percentage of GDP,,"Tourists
-(overnight visitors)",,7.180429798
-2013,Percentage of GDP,Accommodation services for visitors,"Excursionists
-(same-day visitors)",,0
-2013,Percentage of GDP,Food and beverage serving activities,"Excursionists
-(same-day visitors)",,2.564322189
-2013,Percentage of GDP,Railway passenger transport services,"Excursionists
-(same-day visitors)",,0.28618107
-2013,Percentage of GDP,Road passenger transport services,"Excursionists
-(same-day visitors)",,0.152440584
-2013,Percentage of GDP,Water passenger transport services,"Excursionists
-(same-day visitors)",,0.086550473
-2013,Percentage of GDP,Air passenger transport services,"Excursionists
-(same-day visitors)",,0.099519247
-2013,Percentage of GDP,Transport equipment rental services,"Excursionists
-(same-day visitors)",,0.035859581
-2013,Percentage of GDP,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",,0.036486175
-2013,Percentage of GDP,Cultural activities,"Excursionists
-(same-day visitors)",,0.496831676
-2013,Percentage of GDP,Sport and recreation activities,"Excursionists
-(same-day visitors)",,0.295419022
-2013,Percentage of GDP,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",,0.042223248
-2013,Percentage of GDP,Other consumption products,"Excursionists
-(same-day visitors)",,2.213096048
-2013,Percentage of GDP,,"Excursionists
-(same-day visitors)",,6.308917814
-2013,Percentage of GDP,Accommodation services for visitors,,,1.329891473
-2013,Percentage of GDP,Food and beverage serving activities,,,3.397450969
-2013,Percentage of GDP,Railway passenger transport services,,,0.472802652
-2013,Percentage of GDP,Road passenger transport services,,,0.292757434
-2013,Percentage of GDP,Water passenger transport services,,,0.18072355
-2013,Percentage of GDP,Air passenger transport services,,,2.112001692
-2013,Percentage of GDP,Transport equipment rental services,,,0.066775391
-2013,Percentage of GDP,Travel agencies and other reservation services,,,0.343936954
-2013,Percentage of GDP,Cultural activities,,,0.610256714
-2013,Percentage of GDP,Sport and recreation activities,,,0.371035714
-2013,Percentage of GDP,Exhibitions & Conferences etc.,,,0.060084056
-2013,Percentage of GDP,Other consumption products,,,4.25164251
-2013,Percentage of GDP,,,,13.48934761
-2014,Percentage of GDP,Accommodation services for visitors,"Tourists
-(overnight visitors)",Inbound,0.313752108
-2014,Percentage of GDP,Food and beverage serving activities,"Tourists
-(overnight visitors)",Inbound,0.211475223
-2014,Percentage of GDP,Railway passenger transport services,"Tourists
-(overnight visitors)",Inbound,0.021690196
-2014,Percentage of GDP,Road passenger transport services,"Tourists
-(overnight visitors)",Inbound,0.029158226
-2014,Percentage of GDP,Water passenger transport services,"Tourists
-(overnight visitors)",Inbound,0.022348319
-2014,Percentage of GDP,Air passenger transport services,"Tourists
-(overnight visitors)",Inbound,0.16192074
-2014,Percentage of GDP,Transport equipment rental services,"Tourists
-(overnight visitors)",Inbound,0.008722928
-2014,Percentage of GDP,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Inbound,0.006079278
-2014,Percentage of GDP,Cultural activities,"Tourists
-(overnight visitors)",Inbound,0.012370495
-2014,Percentage of GDP,Sport and recreation activities,"Tourists
-(overnight visitors)",Inbound,0.009297392
-2014,Percentage of GDP,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Inbound,0.005700021
-2014,Percentage of GDP,Other consumption products,"Tourists
-(overnight visitors)",Inbound,0.587715619
-2014,Percentage of GDP,,"Tourists
-(overnight visitors)",Inbound,1.390230544
-2014,Percentage of GDP,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Inbound,0
-2014,Percentage of GDP,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Inbound,0.001801474
-2014,Percentage of GDP,Railway passenger transport services,"Excursionists
-(same-day visitors)",Inbound,0.00201899
-2014,Percentage of GDP,Road passenger transport services,"Excursionists
-(same-day visitors)",Inbound,0.000245402
-2014,Percentage of GDP,Water passenger transport services,"Excursionists
-(same-day visitors)",Inbound,0.001650887
-2014,Percentage of GDP,Air passenger transport services,"Excursionists
-(same-day visitors)",Inbound,0.021232855
-2014,Percentage of GDP,Transport equipment rental services,"Excursionists
-(same-day visitors)",Inbound,7.25E-05
-2014,Percentage of GDP,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Inbound,5.02E-05
-2014,Percentage of GDP,Cultural activities,"Excursionists
-(same-day visitors)",Inbound,0.000105969
-2014,Percentage of GDP,Sport and recreation activities,"Excursionists
-(same-day visitors)",Inbound,7.81E-05
-2014,Percentage of GDP,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Inbound,5.02E-05
-2014,Percentage of GDP,Other consumption products,"Excursionists
-(same-day visitors)",Inbound,0.005002856
-2014,Percentage of GDP,,"Excursionists
-(same-day visitors)",Inbound,0.032314989
-2014,Percentage of GDP,Accommodation services for visitors,,Inbound,0.313752108
-2014,Percentage of GDP,Food and beverage serving activities,,Inbound,0.213276698
-2014,Percentage of GDP,Railway passenger transport services,,Inbound,0.023709185
-2014,Percentage of GDP,Road passenger transport services,,Inbound,0.029409206
-2014,Percentage of GDP,Water passenger transport services,,Inbound,0.023999206
-2014,Percentage of GDP,Air passenger transport services,,Inbound,0.183153595
-2014,Percentage of GDP,Transport equipment rental services,,Inbound,0.008795433
-2014,Percentage of GDP,Travel agencies and other reservation services,,Inbound,0.006129474
-2014,Percentage of GDP,Cultural activities,,Inbound,0.012476464
-2014,Percentage of GDP,Sport and recreation activities,,Inbound,0.009375474
-2014,Percentage of GDP,Exhibitions & Conferences etc.,,Inbound,0.005750216
-2014,Percentage of GDP,Other consumption products,,Inbound,0.592718475
-2014,Percentage of GDP,,,Inbound,1.422545533
-2014,Percentage of GDP,Accommodation services for visitors,"Tourists
-(overnight visitors)",Domestic,0.467998456
-2014,Percentage of GDP,Food and beverage serving activities,"Tourists
-(overnight visitors)",Domestic,0.264866903
-2014,Percentage of GDP,Railway passenger transport services,"Tourists
-(overnight visitors)",Domestic,0.043319041
-2014,Percentage of GDP,Road passenger transport services,"Tourists
-(overnight visitors)",Domestic,0.01543802
-2014,Percentage of GDP,Water passenger transport services,"Tourists
-(overnight visitors)",Domestic,0.004746299
-2014,Percentage of GDP,Air passenger transport services,"Tourists
-(overnight visitors)",Domestic,0.031177216
-2014,Percentage of GDP,Transport equipment rental services,"Tourists
-(overnight visitors)",Domestic,0.010212072
-2014,Percentage of GDP,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Domestic,0.053146277
-2014,Percentage of GDP,Cultural activities,"Tourists
-(overnight visitors)",Domestic,0.048026298
-2014,Percentage of GDP,Sport and recreation activities,"Tourists
-(overnight visitors)",Domestic,0.027669082
-2014,Percentage of GDP,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Domestic,0.003351969
-2014,Percentage of GDP,Other consumption products,"Tourists
-(overnight visitors)",Domestic,0.345403396
-2014,Percentage of GDP,,"Tourists
-(overnight visitors)",Domestic,1.31535503
-2014,Percentage of GDP,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Domestic,0
-2014,Percentage of GDP,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Domestic,1.181906506
-2014,Percentage of GDP,Railway passenger transport services,"Excursionists
-(same-day visitors)",Domestic,0.139070462
-2014,Percentage of GDP,Road passenger transport services,"Excursionists
-(same-day visitors)",Domestic,0.058974576
-2014,Percentage of GDP,Water passenger transport services,"Excursionists
-(same-day visitors)",Domestic,0.009386629
-2014,Percentage of GDP,Air passenger transport services,"Excursionists
-(same-day visitors)",Domestic,0.022465443
-2014,Percentage of GDP,Transport equipment rental services,"Excursionists
-(same-day visitors)",Domestic,0.015995752
-2014,Percentage of GDP,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Domestic,0.01119368
-2014,Percentage of GDP,Cultural activities,"Excursionists
-(same-day visitors)",Domestic,0.166979368
-2014,Percentage of GDP,Sport and recreation activities,"Excursionists
-(same-day visitors)",Domestic,0.243756749
-2014,Percentage of GDP,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Domestic,0.006040237
-2014,Percentage of GDP,Other consumption products,"Excursionists
-(same-day visitors)",Domestic,1.158799672
-2014,Percentage of GDP,,"Excursionists
-(same-day visitors)",Domestic,3.014574651
-2014,Percentage of GDP,Accommodation services for visitors,,Domestic,0.467998456
-2014,Percentage of GDP,Food and beverage serving activities,,Domestic,1.446773409
-2014,Percentage of GDP,Railway passenger transport services,,Domestic,0.182389502
-2014,Percentage of GDP,Road passenger transport services,,Domestic,0.074412597
-2014,Percentage of GDP,Water passenger transport services,,Domestic,0.01412735
-2014,Percentage of GDP,Air passenger transport services,,Domestic,0.053642659
-2014,Percentage of GDP,Transport equipment rental services,,Domestic,0.026207824
-2014,Percentage of GDP,Travel agencies and other reservation services,,Domestic,0.064339958
-2014,Percentage of GDP,Cultural activities,,Domestic,0.215005667
-2014,Percentage of GDP,Sport and recreation activities,,Domestic,0.271431408
-2014,Percentage of GDP,Exhibitions & Conferences etc.,,Domestic,0.009386629
-2014,Percentage of GDP,Other consumption products,,Domestic,1.504203068
-2014,Percentage of GDP,,,Domestic,4.329929681
-2014,Percentage of GDP,Accommodation services for visitors,"Tourists
-(overnight visitors)",Outbound,0.038009432
-2014,Percentage of GDP,Food and beverage serving activities,"Tourists
-(overnight visitors)",Outbound,0.033988185
-2014,Percentage of GDP,Railway passenger transport services,"Tourists
-(overnight visitors)",Outbound,0.032365185
-2014,Percentage of GDP,Road passenger transport services,"Tourists
-(overnight visitors)",Outbound,0.040881752
-2014,Percentage of GDP,Water passenger transport services,"Tourists
-(overnight visitors)",Outbound,0.023982474
-2014,Percentage of GDP,Air passenger transport services,"Tourists
-(overnight visitors)",Outbound,0.900792872
-2014,Percentage of GDP,Transport equipment rental services,"Tourists
-(overnight visitors)",Outbound,0
-2014,Percentage of GDP,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Outbound,0.093029689
-2014,Percentage of GDP,Cultural activities,"Tourists
-(overnight visitors)",Outbound,0
-2014,Percentage of GDP,Sport and recreation activities,"Tourists
-(overnight visitors)",Outbound,0
-2014,Percentage of GDP,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Outbound,0
-2014,Percentage of GDP,Other consumption products,"Tourists
-(overnight visitors)",Outbound,0.355169283
-2014,Percentage of GDP,,"Tourists
-(overnight visitors)",Outbound,1.518224449
-2014,Percentage of GDP,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Outbound,0
-2014,Percentage of GDP,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Outbound,0.000189629
-2014,Percentage of GDP,Railway passenger transport services,"Excursionists
-(same-day visitors)",Outbound,0.004618021
-2014,Percentage of GDP,Road passenger transport services,"Excursionists
-(same-day visitors)",Outbound,0.000223093
-2014,Percentage of GDP,Water passenger transport services,"Excursionists
-(same-day visitors)",Outbound,0.000730629
-2014,Percentage of GDP,Air passenger transport services,"Excursionists
-(same-day visitors)",Outbound,0.006603546
-2014,Percentage of GDP,Transport equipment rental services,"Excursionists
-(same-day visitors)",Outbound,0
-2014,Percentage of GDP,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Outbound,0
-2014,Percentage of GDP,Cultural activities,"Excursionists
-(same-day visitors)",Outbound,0
-2014,Percentage of GDP,Sport and recreation activities,"Excursionists
-(same-day visitors)",Outbound,0
-2014,Percentage of GDP,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Outbound,0
-2014,Percentage of GDP,Other consumption products,"Excursionists
-(same-day visitors)",Outbound,0.001952062
-2014,Percentage of GDP,,"Excursionists
-(same-day visitors)",Outbound,0.014322556
-2014,Percentage of GDP,Accommodation services for visitors,,Outbound,0.038009432
-2014,Percentage of GDP,Food and beverage serving activities,,Outbound,0.034172237
-2014,Percentage of GDP,Railway passenger transport services,,Outbound,0.036988783
-2014,Percentage of GDP,Road passenger transport services,,Outbound,0.041104845
-2014,Percentage of GDP,Water passenger transport services,,Outbound,0.02471868
-2014,Percentage of GDP,Air passenger transport services,,Outbound,0.907396418
-2014,Percentage of GDP,Transport equipment rental services,,Outbound,0
-2014,Percentage of GDP,Travel agencies and other reservation services,,Outbound,0.093029689
-2014,Percentage of GDP,Cultural activities,,Outbound,0
-2014,Percentage of GDP,Sport and recreation activities,,Outbound,0
-2014,Percentage of GDP,Exhibitions & Conferences etc.,,Outbound,0
-2014,Percentage of GDP,Other consumption products,,Outbound,0.357126922
-2014,Percentage of GDP,,,Outbound,1.532547006
-2014,Percentage of GDP,Accommodation services for visitors,"Tourists
-(overnight visitors)",Domestic and Outbound,0.506007889
-2014,Percentage of GDP,Food and beverage serving activities,"Tourists
-(overnight visitors)",Domestic and Outbound,0.298855088
-2014,Percentage of GDP,Railway passenger transport services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.075684226
-2014,Percentage of GDP,Road passenger transport services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.056319772
-2014,Percentage of GDP,Water passenger transport services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.028728773
-2014,Percentage of GDP,Air passenger transport services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.931970088
-2014,Percentage of GDP,Transport equipment rental services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.010212072
-2014,Percentage of GDP,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Domestic and Outbound,0.146175967
-2014,Percentage of GDP,Cultural activities,"Tourists
-(overnight visitors)",Domestic and Outbound,0.048026298
-2014,Percentage of GDP,Sport and recreation activities,"Tourists
-(overnight visitors)",Domestic and Outbound,0.027669082
-2014,Percentage of GDP,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Domestic and Outbound,0.003351969
-2014,Percentage of GDP,Other consumption products,"Tourists
-(overnight visitors)",Domestic and Outbound,0.700578256
-2014,Percentage of GDP,,"Tourists
-(overnight visitors)",Domestic and Outbound,2.833573902
-2014,Percentage of GDP,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Domestic and Outbound,0
-2014,Percentage of GDP,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Domestic and Outbound,1.182096135
-2014,Percentage of GDP,Railway passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.143694059
-2014,Percentage of GDP,Road passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.059197669
-2014,Percentage of GDP,Water passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.010117258
-2014,Percentage of GDP,Air passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.029074567
-2014,Percentage of GDP,Transport equipment rental services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.015995752
-2014,Percentage of GDP,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.01119368
-2014,Percentage of GDP,Cultural activities,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.166979368
-2014,Percentage of GDP,Sport and recreation activities,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.243756749
-2014,Percentage of GDP,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Domestic and Outbound,0.006040237
-2014,Percentage of GDP,Other consumption products,"Excursionists
-(same-day visitors)",Domestic and Outbound,1.160752849
-2014,Percentage of GDP,,"Excursionists
-(same-day visitors)",Domestic and Outbound,3.028897208
-2014,Percentage of GDP,Accommodation services for visitors,,Domestic and Outbound,0.506007889
-2014,Percentage of GDP,Food and beverage serving activities,,Domestic and Outbound,1.480945646
-2014,Percentage of GDP,Railway passenger transport services,,Domestic and Outbound,0.219378285
-2014,Percentage of GDP,Road passenger transport services,,Domestic and Outbound,0.115523019
-2014,Percentage of GDP,Water passenger transport services,,Domestic and Outbound,0.03884603
-2014,Percentage of GDP,Air passenger transport services,,Domestic and Outbound,0.961039077
-2014,Percentage of GDP,Transport equipment rental services,,Domestic and Outbound,0.026207824
-2014,Percentage of GDP,Travel agencies and other reservation services,,Domestic and Outbound,0.157369647
-2014,Percentage of GDP,Cultural activities,,Domestic and Outbound,0.215005667
-2014,Percentage of GDP,Sport and recreation activities,,Domestic and Outbound,0.271431408
-2014,Percentage of GDP,Exhibitions & Conferences etc.,,Domestic and Outbound,0.009386629
-2014,Percentage of GDP,Other consumption products,,Domestic and Outbound,1.86132999
-2014,Percentage of GDP,,,Domestic and Outbound,5.862476687
-2014,Percentage of GDP,Accommodation services for visitors,"Tourists
-(overnight visitors)",,1.325767885
-2014,Percentage of GDP,Food and beverage serving activities,"Tourists
-(overnight visitors)",,0.809185399
-2014,Percentage of GDP,Railway passenger transport services,"Tourists
-(overnight visitors)",,0.173058647
-2014,Percentage of GDP,Road passenger transport services,"Tourists
-(overnight visitors)",,0.141797771
-2014,Percentage of GDP,Water passenger transport services,"Tourists
-(overnight visitors)",,0.079805865
-2014,Percentage of GDP,Air passenger transport services,"Tourists
-(overnight visitors)",,2.025860915
-2014,Percentage of GDP,Transport equipment rental services,"Tourists
-(overnight visitors)",,0.029147072
-2014,Percentage of GDP,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",,0.298431212
-2014,Percentage of GDP,Cultural activities,"Tourists
-(overnight visitors)",,0.108423091
-2014,Percentage of GDP,Sport and recreation activities,"Tourists
-(overnight visitors)",,0.064635556
-2014,Percentage of GDP,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",,0.012403959
-2014,Percentage of GDP,Other consumption products,"Tourists
-(overnight visitors)",,1.988866555
-2014,Percentage of GDP,,"Tourists
-(overnight visitors)",,7.057383925
-2014,Percentage of GDP,Accommodation services for visitors,"Excursionists
-(same-day visitors)",,0
-2014,Percentage of GDP,Food and beverage serving activities,"Excursionists
-(same-day visitors)",,2.365993744
-2014,Percentage of GDP,Railway passenger transport services,"Excursionists
-(same-day visitors)",,0.289401531
-2014,Percentage of GDP,Road passenger transport services,"Excursionists
-(same-day visitors)",,0.11864074
-2014,Percentage of GDP,Water passenger transport services,"Excursionists
-(same-day visitors)",,0.021885402
-2014,Percentage of GDP,Air passenger transport services,"Excursionists
-(same-day visitors)",,0.079376411
-2014,Percentage of GDP,Transport equipment rental services,"Excursionists
-(same-day visitors)",,0.03206401
-2014,Percentage of GDP,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",,0.022437556
-2014,Percentage of GDP,Cultural activities,"Excursionists
-(same-day visitors)",,0.334064706
-2014,Percentage of GDP,Sport and recreation activities,"Excursionists
-(same-day visitors)",,0.48759158
-2014,Percentage of GDP,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",,0.01213067
-2014,Percentage of GDP,Other consumption products,"Excursionists
-(same-day visitors)",,2.326507438
-2014,Percentage of GDP,,"Excursionists
-(same-day visitors)",,6.090109405
-2014,Percentage of GDP,Accommodation services for visitors,,,1.325767885
-2014,Percentage of GDP,Food and beverage serving activities,,,3.175167989
-2014,Percentage of GDP,Railway passenger transport services,,,0.462465755
-2014,Percentage of GDP,Road passenger transport services,,,0.260449666
-2014,Percentage of GDP,Water passenger transport services,,,0.101691266
-2014,Percentage of GDP,Air passenger transport services,,,2.105231749
-2014,Percentage of GDP,Transport equipment rental services,,,0.061211081
-2014,Percentage of GDP,Travel agencies and other reservation services,,,0.320868768
-2014,Percentage of GDP,Cultural activities,,,0.442487797
-2014,Percentage of GDP,Sport and recreation activities,,,0.55223829
-2014,Percentage of GDP,Exhibitions & Conferences etc.,,,0.024523474
-2014,Percentage of GDP,Other consumption products,,,4.315378455
-2014,Percentage of GDP,,,,13.14749891
-2014,Annual growth rate,Accommodation services for visitors,"Tourists
-(overnight visitors)",Inbound,1.739822401
-2014,Annual growth rate,Food and beverage serving activities,"Tourists
-(overnight visitors)",Inbound,1.853493432
-2014,Annual growth rate,Railway passenger transport services,"Tourists
-(overnight visitors)",Inbound,-2.580160321
-2014,Annual growth rate,Road passenger transport services,"Tourists
-(overnight visitors)",Inbound,0.461183705
-2014,Annual growth rate,Water passenger transport services,"Tourists
-(overnight visitors)",Inbound,-4.5042898
-2014,Annual growth rate,Air passenger transport services,"Tourists
-(overnight visitors)",Inbound,0.058590384
-2014,Annual growth rate,Transport equipment rental services,"Tourists
-(overnight visitors)",Inbound,24.9201278
-2014,Annual growth rate,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Inbound,-1.890189019
-2014,Annual growth rate,Cultural activities,"Tourists
-(overnight visitors)",Inbound,1.649862511
-2014,Annual growth rate,Sport and recreation activities,"Tourists
-(overnight visitors)",Inbound,-1.126927639
-2014,Annual growth rate,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Inbound,-22.6343679
-2014,Annual growth rate,Other consumption products,"Tourists
-(overnight visitors)",Inbound,4.336805418
-2014,Annual growth rate,,"Tourists
-(overnight visitors)",Inbound,2.378067563
-2014,Annual growth rate,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Inbound,
-2014,Annual growth rate,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Inbound,-10.77348066
-2014,Annual growth rate,Railway passenger transport services,"Excursionists
-(same-day visitors)",Inbound,-5.483028721
-2014,Annual growth rate,Road passenger transport services,"Excursionists
-(same-day visitors)",Inbound,-13.7254902
-2014,Annual growth rate,Water passenger transport services,"Excursionists
-(same-day visitors)",Inbound,-13.4502924
-2014,Annual growth rate,Air passenger transport services,"Excursionists
-(same-day visitors)",Inbound,-0.078740157
-2014,Annual growth rate,Transport equipment rental services,"Excursionists
-(same-day visitors)",Inbound,8.333333333
-2014,Annual growth rate,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Inbound,-18.18181818
-2014,Annual growth rate,Cultural activities,"Excursionists
-(same-day visitors)",Inbound,-9.523809524
-2014,Annual growth rate,Sport and recreation activities,"Excursionists
-(same-day visitors)",Inbound,-12.5
-2014,Annual growth rate,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Inbound,-30.76923077
-2014,Annual growth rate,Other consumption products,"Excursionists
-(same-day visitors)",Inbound,-8.655804481
-2014,Annual growth rate,,"Excursionists
-(same-day visitors)",Inbound,-3.481592537
-2014,Annual growth rate,Accommodation services for visitors,,Inbound,1.739822401
-2014,Annual growth rate,Food and beverage serving activities,,Inbound,1.731889649
-2014,Annual growth rate,Railway passenger transport services,,Inbound,-2.834285714
-2014,Annual growth rate,Road passenger transport services,,Inbound,0.342530923
-2014,Annual growth rate,Water passenger transport services,,Inbound,-5.178492728
-2014,Annual growth rate,Air passenger transport services,,Inbound,0.04569827
-2014,Annual growth rate,Transport equipment rental services,,Inbound,24.76265823
-2014,Annual growth rate,Travel agencies and other reservation services,,Inbound,-2.049910873
-2014,Annual growth rate,Cultural activities,,Inbound,1.497277677
-2014,Annual growth rate,Sport and recreation activities,,Inbound,-1.233842538
-2014,Annual growth rate,Exhibitions & Conferences etc.,,Inbound,-22.71364318
-2014,Annual growth rate,Other consumption products,,Inbound,4.211692718
-2014,Annual growth rate,,,Inbound,2.237071004
-2014,Annual growth rate,Accommodation services for visitors,"Tourists
-(overnight visitors)",Domestic,2.525536386
-2014,Annual growth rate,Food and beverage serving activities,"Tourists
-(overnight visitors)",Domestic,-1.18807349
-2014,Annual growth rate,Railway passenger transport services,"Tourists
-(overnight visitors)",Domestic,-11.25457038
-2014,Annual growth rate,Road passenger transport services,"Tourists
-(overnight visitors)",Domestic,4.138449962
-2014,Annual growth rate,Water passenger transport services,"Tourists
-(overnight visitors)",Domestic,-62.36178682
-2014,Annual growth rate,Air passenger transport services,"Tourists
-(overnight visitors)",Domestic,100.2148997
-2014,Annual growth rate,Transport equipment rental services,"Tourists
-(overnight visitors)",Domestic,-11.2457586
-2014,Annual growth rate,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Domestic,0.241952451
-2014,Annual growth rate,Cultural activities,"Tourists
-(overnight visitors)",Domestic,-1.846574718
-2014,Annual growth rate,Sport and recreation activities,"Tourists
-(overnight visitors)",Domestic,-13.48099058
-2014,Annual growth rate,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Domestic,-32.6987682
-2014,Annual growth rate,Other consumption products,"Tourists
-(overnight visitors)",Domestic,-9.242786172
-2014,Annual growth rate,,"Tourists
-(overnight visitors)",Domestic,-2.37319568
-2014,Annual growth rate,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Domestic,
-2014,Annual growth rate,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Domestic,-4.897543375
-2014,Annual growth rate,Railway passenger transport services,"Excursionists
-(same-day visitors)",Domestic,3.003139458
-2014,Annual growth rate,Road passenger transport services,"Excursionists
-(same-day visitors)",Domestic,-19.85751099
-2014,Annual growth rate,Water passenger transport services,"Excursionists
-(same-day visitors)",Domestic,-76.04611443
-2014,Annual growth rate,Air passenger transport services,"Excursionists
-(same-day visitors)",Domestic,-25.44882473
-2014,Annual growth rate,Transport equipment rental services,"Excursionists
-(same-day visitors)",Domestic,-7.870221651
-2014,Annual growth rate,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Domestic,-36.64772727
-2014,Annual growth rate,Cultural activities,"Excursionists
-(same-day visitors)",Domestic,-30.70157165
-2014,Annual growth rate,Sport and recreation activities,"Excursionists
-(same-day visitors)",Domestic,70.14443104
-2014,Annual growth rate,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Domestic,-70.45826514
-2014,Annual growth rate,Other consumption products,"Excursionists
-(same-day visitors)",Domestic,8.400985037
-2014,Annual growth rate,,"Excursionists
-(same-day visitors)",Domestic,-0.488988552
-2014,Annual growth rate,Accommodation services for visitors,,Domestic,2.525536386
-2014,Annual growth rate,Food and beverage serving activities,,Domestic,-4.239406099
-2014,Annual growth rate,Railway passenger transport services,,Domestic,-0.779756667
-2014,Annual growth rate,Road passenger transport services,,Domestic,-15.83396417
-2014,Annual growth rate,Water passenger transport services,,Domestic,-72.72531496
-2014,Annual growth rate,Air passenger transport services,,Domestic,17.36424649
-2014,Annual growth rate,Transport equipment rental services,,Domestic,-9.21561051
-2014,Annual growth rate,Travel agencies and other reservation services,,Domestic,-8.979012151
-2014,Annual growth rate,Cultural activities,,Domestic,-25.83257979
-2014,Annual growth rate,Sport and recreation activities,,Domestic,54.88685911
-2014,Annual growth rate,Exhibitions & Conferences etc.,,Domestic,-63.08400965
-2014,Annual growth rate,Other consumption products,,Domestic,3.768285457
-2014,Annual growth rate,,,Domestic,-1.069023301
-2014,Annual growth rate,Accommodation services for visitors,"Tourists
-(overnight visitors)",Outbound,10.25723993
-2014,Annual growth rate,Food and beverage serving activities,"Tourists
-(overnight visitors)",Outbound,5.250431779
-2014,Annual growth rate,Railway passenger transport services,"Tourists
-(overnight visitors)",Outbound,5.7976299
-2014,Annual growth rate,Road passenger transport services,"Tourists
-(overnight visitors)",Outbound,5.543556515
-2014,Annual growth rate,Water passenger transport services,"Tourists
-(overnight visitors)",Outbound,12.18366815
-2014,Annual growth rate,Air passenger transport services,"Tourists
-(overnight visitors)",Outbound,2.388061594
-2014,Annual growth rate,Transport equipment rental services,"Tourists
-(overnight visitors)",Outbound,
-2014,Annual growth rate,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Outbound,0
-2014,Annual growth rate,Cultural activities,"Tourists
-(overnight visitors)",Outbound,
-2014,Annual growth rate,Sport and recreation activities,"Tourists
-(overnight visitors)",Outbound,
-2014,Annual growth rate,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Outbound,
-2014,Annual growth rate,Other consumption products,"Tourists
-(overnight visitors)",Outbound,8.720741639
-2014,Annual growth rate,,"Tourists
-(overnight visitors)",Outbound,4.204723807
-2014,Annual growth rate,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Outbound,
-2014,Annual growth rate,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Outbound,3.03030303
-2014,Annual growth rate,Railway passenger transport services,"Excursionists
-(same-day visitors)",Outbound,68.29268293
-2014,Annual growth rate,Road passenger transport services,"Excursionists
-(same-day visitors)",Outbound,2.564102564
-2014,Annual growth rate,Water passenger transport services,"Excursionists
-(same-day visitors)",Outbound,-60.42296073
-2014,Annual growth rate,Air passenger transport services,"Excursionists
-(same-day visitors)",Outbound,-12.16617211
-2014,Annual growth rate,Transport equipment rental services,"Excursionists
-(same-day visitors)",Outbound,
-2014,Annual growth rate,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Outbound,
-2014,Annual growth rate,Cultural activities,"Excursionists
-(same-day visitors)",Outbound,
-2014,Annual growth rate,Sport and recreation activities,"Excursionists
-(same-day visitors)",Outbound,
-2014,Annual growth rate,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Outbound,
-2014,Annual growth rate,Other consumption products,"Excursionists
-(same-day visitors)",Outbound,5.421686747
-2014,Annual growth rate,,"Excursionists
-(same-day visitors)",Outbound,-0.27184466
-2014,Annual growth rate,Accommodation services for visitors,,Outbound,10.25723993
-2014,Annual growth rate,Food and beverage serving activities,,Outbound,5.220676627
-2014,Annual growth rate,Railway passenger transport services,,Outbound,10.95867492
-2014,Annual growth rate,Road passenger transport services,,Outbound,5.526918671
-2014,Annual growth rate,Water passenger transport services,,Outbound,6.461686284
-2014,Annual growth rate,Air passenger transport services,,Outbound,2.264741563
-2014,Annual growth rate,Transport equipment rental services,,Outbound,
-2014,Annual growth rate,Travel agencies and other reservation services,,Outbound,0
-2014,Annual growth rate,Cultural activities,,Outbound,
-2014,Annual growth rate,Sport and recreation activities,,Outbound,
-2014,Annual growth rate,Exhibitions & Conferences etc.,,Outbound,
-2014,Annual growth rate,Other consumption products,,Outbound,8.703845174
-2014,Annual growth rate,,,Outbound,4.161028032
-2014,Annual growth rate,Accommodation services for visitors,"Tourists
-(overnight visitors)",Domestic and Inbound,3.068446464
-2014,Annual growth rate,Food and beverage serving activities,"Tourists
-(overnight visitors)",Domestic and Inbound,-0.49581252
-2014,Annual growth rate,Railway passenger transport services,"Tourists
-(overnight visitors)",Domestic and Inbound,-4.678280416
-2014,Annual growth rate,Road passenger transport services,"Tourists
-(overnight visitors)",Domestic and Inbound,5.154639175
-2014,Annual growth rate,Water passenger transport services,"Tourists
-(overnight visitors)",Domestic and Inbound,-15.46036435
-2014,Annual growth rate,Air passenger transport services,"Tourists
-(overnight visitors)",Domestic and Inbound,4.089450899
-2014,Annual growth rate,Transport equipment rental services,"Tourists
-(overnight visitors)",Domestic and Inbound,-11.2457586
-2014,Annual growth rate,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",Domestic and Inbound,0.087833193
-2014,Annual growth rate,Cultural activities,"Tourists
-(overnight visitors)",Domestic and Inbound,-1.846574718
-2014,Annual growth rate,Sport and recreation activities,"Tourists
-(overnight visitors)",Domestic and Inbound,-13.48099058
-2014,Annual growth rate,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",Domestic and Inbound,-32.6987682
-2014,Annual growth rate,Other consumption products,"Tourists
-(overnight visitors)",Domestic and Inbound,-0.945501573
-2014,Annual growth rate,,"Tourists
-(overnight visitors)",Domestic and Inbound,1.044146515
-2014,Annual growth rate,Accommodation services for visitors,"Excursionists
-(same-day visitors)",Domestic and Inbound,
-2014,Annual growth rate,Food and beverage serving activities,"Excursionists
-(same-day visitors)",Domestic and Inbound,-4.896369453
-2014,Annual growth rate,Railway passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Inbound,4.307692308
-2014,Annual growth rate,Road passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Inbound,-19.79749131
-2014,Annual growth rate,Water passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Inbound,-75.34321055
-2014,Annual growth rate,Air passenger transport services,"Excursionists
-(same-day visitors)",Domestic and Inbound,-22.7818101
-2014,Annual growth rate,Transport equipment rental services,"Excursionists
-(same-day visitors)",Domestic and Inbound,-7.870221651
-2014,Annual growth rate,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",Domestic and Inbound,-36.64772727
-2014,Annual growth rate,Cultural activities,"Excursionists
-(same-day visitors)",Domestic and Inbound,-30.70157165
-2014,Annual growth rate,Sport and recreation activities,"Excursionists
-(same-day visitors)",Domestic and Inbound,70.14443104
-2014,Annual growth rate,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",Domestic and Inbound,-70.45826514
-2014,Annual growth rate,Other consumption products,"Excursionists
-(same-day visitors)",Domestic and Inbound,8.3959375
-2014,Annual growth rate,,"Excursionists
-(same-day visitors)",Domestic and Inbound,-0.487781638
-2014,Annual growth rate,Accommodation services for visitors,,Domestic and Inbound,3.068446464
-2014,Annual growth rate,Food and beverage serving activities,,Domestic and Inbound,-4.039984243
-2014,Annual growth rate,Railway passenger transport services,,Domestic and Inbound,1.022190261
-2014,Annual growth rate,Road passenger transport services,,Domestic and Inbound,-9.29672447
-2014,Annual growth rate,Water passenger transport services,,Domestic and Inbound,-48.21561338
-2014,Annual growth rate,Air passenger transport services,,Domestic and Inbound,3.004435518
-2014,Annual growth rate,Transport equipment rental services,,Domestic and Inbound,-9.21561051
-2014,Annual growth rate,Travel agencies and other reservation services,,Domestic and Inbound,-3.876814063
-2014,Annual growth rate,Cultural activities,,Domestic and Inbound,-25.83257979
-2014,Annual growth rate,Sport and recreation activities,,Domestic and Inbound,54.88685911
-2014,Annual growth rate,Exhibitions & Conferences etc.,,Domestic and Inbound,-63.08400965
-2014,Annual growth rate,Other consumption products,,Domestic and Inbound,4.680202377
-2014,Annual growth rate,,,Domestic and Inbound,0.246914993
-2014,Annual growth rate,Accommodation services for visitors,"Tourists
-(overnight visitors)",,2.750893695
-2014,Annual growth rate,Food and beverage serving activities,"Tourists
-(overnight visitors)",,0.107638913
-2014,Annual growth rate,Railway passenger transport services,"Tourists
-(overnight visitors)",,-4.423225012
-2014,Annual growth rate,Road passenger transport services,"Tourists
-(overnight visitors)",,4.154035231
-2014,Annual growth rate,Water passenger transport services,"Tourists
-(overnight visitors)",,-12.65946408
-2014,Annual growth rate,Air passenger transport services,"Tourists
-(overnight visitors)",,3.755373695
-2014,Annual growth rate,Transport equipment rental services,"Tourists
-(overnight visitors)",,-2.826329491
-2014,Annual growth rate,Travel agencies and other reservation services,"Tourists
-(overnight visitors)",,0.046743825
-2014,Annual growth rate,Cultural activities,"Tourists
-(overnight visitors)",,-1.459854015
-2014,Annual growth rate,Sport and recreation activities,"Tourists
-(overnight visitors)",,-11.89752167
-2014,Annual growth rate,Exhibitions & Conferences etc.,"Tourists
-(overnight visitors)",,-28.41969746
-2014,Annual growth rate,Other consumption products,"Tourists
-(overnight visitors)",,0.558912855
-2014,Annual growth rate,,"Tourists
-(overnight visitors)",,1.304238876
-2014,Annual growth rate,Accommodation services for visitors,"Excursionists
-(same-day visitors)",,
-2014,Annual growth rate,Food and beverage serving activities,"Excursionists
-(same-day visitors)",,-4.901138809
-2014,Annual growth rate,Railway passenger transport services,"Excursionists
-(same-day visitors)",,4.230359761
-2014,Annual growth rate,Road passenger transport services,"Excursionists
-(same-day visitors)",,-19.78278905
-2014,Annual growth rate,Water passenger transport services,"Excursionists
-(same-day visitors)",,-73.93730074
-2014,Annual growth rate,Air passenger transport services,"Excursionists
-(same-day visitors)",,-17.79112754
-2014,Annual growth rate,Transport equipment rental services,"Excursionists
-(same-day visitors)",,-7.839050978
-2014,Annual growth rate,Travel agencies and other reservation services,"Excursionists
-(same-day visitors)",,-36.61572396
-2014,Annual growth rate,Cultural activities,"Excursionists
-(same-day visitors)",,-30.69642589
-2014,Annual growth rate,Sport and recreation activities,"Excursionists
-(same-day visitors)",,70.11870014
-2014,Annual growth rate,Exhibitions & Conferences etc.,"Excursionists
-(same-day visitors)",,-70.38801906
-2014,Annual growth rate,Other consumption products,"Excursionists
-(same-day visitors)",,8.352390501
-2014,Annual growth rate,,"Excursionists
-(same-day visitors)",,-0.504247929
-2014,Annual growth rate,Accommodation services for visitors,,,2.750893695
-2014,Annual growth rate,Food and beverage serving activities,,,-3.673046727
-2014,Annual growth rate,Railway passenger transport services,,,0.817051078
-2014,Annual growth rate,Road passenger transport services,,,-8.304043042
-2014,Annual growth rate,Water passenger transport services,,,-42.0033081
-2014,Annual growth rate,Air passenger transport services,,,2.740095156
-2014,Annual growth rate,Transport equipment rental services,,,-5.518250689
-2014,Annual growth rate,Travel agencies and other reservation services,,,-3.842553903
-2014,Annual growth rate,Cultural activities,,,-25.26517078
-2014,Annual growth rate,Sport and recreation activities,,,53.40697819
-2014,Annual growth rate,Exhibitions & Conferences etc.,,,-57.93149636
-2014,Annual growth rate,Other consumption products,,,4.615603029
-2014,Annual growth rate,,,,0.458458925
+Year,Units,Origin of tourist,Type of tourist,Type of expenditure,Value
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Accommodation services for visitors,0.30877
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Food and beverage serving activities,0.20788
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Railway passenger transport services,0.02229
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Road passenger transport services,0.02906
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Water passenger transport services,0.02343
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Air passenger transport services,0.16203
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Transport equipment rental services,0.00699
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Travel agencies and other reservation services,0.00620
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Cultural activities,0.01218
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Sport and recreation activities,0.00942
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Exhibitions and conferences,0.00738
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Other consumption products,0.56399
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),,1.35963
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Food and beverage serving activities,0.00202
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Railway passenger transport services,0.00214
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Road passenger transport services,0.00028
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Water passenger transport services,0.00191
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Air passenger transport services,0.02128
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Transport equipment rental services,0.00007
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Travel agencies and other reservation services,0.00006
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Cultural activities,0.00012
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Sport and recreation activities,0.00009
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Exhibitions and conferences,0.00007
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Other consumption products,0.00548
+2013,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),,0.03352
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Accommodation services for visitors,0.30877
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Food and beverage serving activities,0.20991
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Railway passenger transport services,0.02443
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Road passenger transport services,0.02935
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Water passenger transport services,0.02534
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Air passenger transport services,0.18330
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Transport equipment rental services,0.00706
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Travel agencies and other reservation services,0.00627
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Cultural activities,0.01231
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Sport and recreation activities,0.00950
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Exhibitions and conferences,0.00745
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,Other consumption products,0.56947
+2013,Percentage (%) of gross domestic product (GDP),Inbound,,,1.39315
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Accommodation services for visitors,0.45704
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Food and beverage serving activities,0.26838
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Railway passenger transport services,0.04887
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Road passenger transport services,0.01484
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Water passenger transport services,0.01263
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Air passenger transport services,0.01559
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Transport equipment rental services,0.01152
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Travel agencies and other reservation services,0.05308
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Cultural activities,0.04899
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Sport and recreation activities,0.03202
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Exhibitions and conferences,0.00499
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Other consumption products,0.38105
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),,1.34900
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Food and beverage serving activities,1.24432
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Railway passenger transport services,0.13518
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Road passenger transport services,0.07368
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Water passenger transport services,0.03923
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Air passenger transport services,0.03017
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Transport equipment rental services,0.01738
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Travel agencies and other reservation services,0.01769
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Cultural activities,0.24126
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Sport and recreation activities,0.14344
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Exhibitions and conferences,0.02047
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Other consumption products,1.07032
+2013,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),,3.03315
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Accommodation services for visitors,0.45704
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Food and beverage serving activities,1.51270
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Railway passenger transport services,0.18405
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Road passenger transport services,0.08852
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Water passenger transport services,0.05186
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Air passenger transport services,0.04576
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Transport equipment rental services,0.02890
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Travel agencies and other reservation services,0.07077
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Cultural activities,0.29025
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Sport and recreation activities,0.17546
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Exhibitions and conferences,0.02546
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,Other consumption products,1.45138
+2013,Percentage (%) of gross domestic product (GDP),Domestic,,,4.38216
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Accommodation services for visitors,0.03452
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Food and beverage serving activities,0.03233
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Railway passenger transport services,0.03063
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Road passenger transport services,0.03878
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Water passenger transport services,0.02140
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Air passenger transport services,0.88088
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Travel agencies and other reservation services,0.09315
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Other consumption products,0.32709
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),,1.45877
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Food and beverage serving activities,0.00018
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Railway passenger transport services,0.00275
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Road passenger transport services,0.00022
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Water passenger transport services,0.00185
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Air passenger transport services,0.00753
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Other consumption products,0.00185
+2013,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),,0.01438
+2013,Percentage (%) of gross domestic product (GDP),Outbound,,Accommodation services for visitors,0.03452
+2013,Percentage (%) of gross domestic product (GDP),Outbound,,Food and beverage serving activities,0.03252
+2013,Percentage (%) of gross domestic product (GDP),Outbound,,Railway passenger transport services,0.03338
+2013,Percentage (%) of gross domestic product (GDP),Outbound,,Road passenger transport services,0.03900
+2013,Percentage (%) of gross domestic product (GDP),Outbound,,Water passenger transport services,0.02325
+2013,Percentage (%) of gross domestic product (GDP),Outbound,,Air passenger transport services,0.88840
+2013,Percentage (%) of gross domestic product (GDP),Outbound,,Travel agencies and other reservation services,0.09315
+2013,Percentage (%) of gross domestic product (GDP),Outbound,,Other consumption products,0.32894
+2013,Percentage (%) of gross domestic product (GDP),Outbound,,,1.47315
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Accommodation services for visitors,0.80032
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Food and beverage serving activities,0.50860
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Railway passenger transport services,0.10180
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Road passenger transport services,0.08269
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Water passenger transport services,0.05746
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Air passenger transport services,1.05850
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Transport equipment rental services,0.01851
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Travel agencies and other reservation services,0.15243
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Cultural activities,0.06118
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Sport and recreation activities,0.04144
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Exhibitions and conferences,0.01236
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Other consumption products,1.27213
+2013,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),,4.16740
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Food and beverage serving activities,1.24652
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Railway passenger transport services,0.14007
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Road passenger transport services,0.07418
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Water passenger transport services,0.04299
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Air passenger transport services,0.05898
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Transport equipment rental services,0.01745
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Travel agencies and other reservation services,0.01775
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Cultural activities,0.24137
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Sport and recreation activities,0.14353
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Exhibitions and conferences,0.02054
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Other consumption products,1.07766
+2013,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),,3.08106
+2013,Percentage (%) of gross domestic product (GDP),,,Accommodation services for visitors,0.80032
+2013,Percentage (%) of gross domestic product (GDP),,,Food and beverage serving activities,1.75512
+2013,Percentage (%) of gross domestic product (GDP),,,Railway passenger transport services,0.24186
+2013,Percentage (%) of gross domestic product (GDP),,,Road passenger transport services,0.15687
+2013,Percentage (%) of gross domestic product (GDP),,,Water passenger transport services,0.10045
+2013,Percentage (%) of gross domestic product (GDP),,,Air passenger transport services,1.11746
+2013,Percentage (%) of gross domestic product (GDP),,,Transport equipment rental services,0.03596
+2013,Percentage (%) of gross domestic product (GDP),,,Travel agencies and other reservation services,0.17019
+2013,Percentage (%) of gross domestic product (GDP),,,Cultural activities,0.30256
+2013,Percentage (%) of gross domestic product (GDP),,,Sport and recreation activities,0.18497
+2013,Percentage (%) of gross domestic product (GDP),,,Exhibitions and conferences,0.03291
+2013,Percentage (%) of gross domestic product (GDP),,,Other consumption products,2.34979
+2013,Percentage (%) of gross domestic product (GDP),,,,7.24846
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Accommodation services for visitors,0.30483
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Food and beverage serving activities,0.20546
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Railway passenger transport services,0.02107
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Road passenger transport services,0.02833
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Water passenger transport services,0.02171
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Air passenger transport services,0.15732
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Transport equipment rental services,0.00847
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Travel agencies and other reservation services,0.00591
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Cultural activities,0.01202
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Sport and recreation activities,0.00903
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Exhibitions and conferences,0.00554
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Other consumption products,0.57101
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),,1.35070
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Food and beverage serving activities,0.00175
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Railway passenger transport services,0.00196
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Road passenger transport services,0.00024
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Water passenger transport services,0.00160
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Air passenger transport services,0.02063
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Transport equipment rental services,0.00007
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Travel agencies and other reservation services,0.00005
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Cultural activities,0.00010
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Sport and recreation activities,0.00008
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Exhibitions and conferences,0.00005
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Other consumption products,0.00486
+2014,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),,0.03140
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Accommodation services for visitors,0.30483
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Food and beverage serving activities,0.20721
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Railway passenger transport services,0.02304
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Road passenger transport services,0.02857
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Water passenger transport services,0.02332
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Air passenger transport services,0.17795
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Transport equipment rental services,0.00855
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Travel agencies and other reservation services,0.00596
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Cultural activities,0.01212
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Sport and recreation activities,0.00911
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Exhibitions and conferences,0.00559
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,Other consumption products,0.57587
+2014,Percentage (%) of gross domestic product (GDP),Inbound,,,1.38210
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Accommodation services for visitors,0.45469
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Food and beverage serving activities,0.25734
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Railway passenger transport services,0.04209
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Road passenger transport services,0.01500
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Water passenger transport services,0.00461
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Air passenger transport services,0.03029
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Transport equipment rental services,0.00992
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Travel agencies and other reservation services,0.05164
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Cultural activities,0.04666
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Sport and recreation activities,0.02688
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Exhibitions and conferences,0.00326
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Other consumption products,0.33558
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),,1.27796
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Food and beverage serving activities,1.14830
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Railway passenger transport services,0.13512
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Road passenger transport services,0.05730
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Water passenger transport services,0.00912
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Air passenger transport services,0.02183
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Transport equipment rental services,0.01554
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Travel agencies and other reservation services,0.01088
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Cultural activities,0.16223
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Sport and recreation activities,0.23683
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Exhibitions and conferences,0.00587
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Other consumption products,1.12585
+2014,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),,2.92887
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Accommodation services for visitors,0.45469
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Food and beverage serving activities,1.40564
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Railway passenger transport services,0.17720
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Road passenger transport services,0.07230
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Water passenger transport services,0.01373
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Air passenger transport services,0.05212
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Transport equipment rental services,0.02546
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Travel agencies and other reservation services,0.06251
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Cultural activities,0.20889
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Sport and recreation activities,0.26371
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Exhibitions and conferences,0.00912
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,Other consumption products,1.46144
+2014,Percentage (%) of gross domestic product (GDP),Domestic,,,4.20683
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Accommodation services for visitors,0.03693
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Food and beverage serving activities,0.03302
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Railway passenger transport services,0.03145
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Road passenger transport services,0.03972
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Water passenger transport services,0.02330
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Air passenger transport services,0.87518
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Travel agencies and other reservation services,0.09038
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Other consumption products,0.34507
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),,1.47506
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Food and beverage serving activities,0.00018
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Railway passenger transport services,0.00449
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Road passenger transport services,0.00022
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Water passenger transport services,0.00071
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Air passenger transport services,0.00642
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Other consumption products,0.00190
+2014,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),,0.01392
+2014,Percentage (%) of gross domestic product (GDP),Outbound,,Accommodation services for visitors,0.03693
+2014,Percentage (%) of gross domestic product (GDP),Outbound,,Food and beverage serving activities,0.03320
+2014,Percentage (%) of gross domestic product (GDP),Outbound,,Railway passenger transport services,0.03594
+2014,Percentage (%) of gross domestic product (GDP),Outbound,,Road passenger transport services,0.03994
+2014,Percentage (%) of gross domestic product (GDP),Outbound,,Water passenger transport services,0.02402
+2014,Percentage (%) of gross domestic product (GDP),Outbound,,Air passenger transport services,0.88160
+2014,Percentage (%) of gross domestic product (GDP),Outbound,,Travel agencies and other reservation services,0.09038
+2014,Percentage (%) of gross domestic product (GDP),Outbound,,Other consumption products,0.34697
+2014,Percentage (%) of gross domestic product (GDP),Outbound,,,1.48898
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Accommodation services for visitors,0.79645
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Food and beverage serving activities,0.49582
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Railway passenger transport services,0.09461
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Road passenger transport services,0.08305
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Water passenger transport services,0.04962
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Air passenger transport services,1.06279
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Transport equipment rental services,0.01840
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Travel agencies and other reservation services,0.14793
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Cultural activities,0.05868
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Sport and recreation activities,0.03592
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Exhibitions and conferences,0.00879
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Other consumption products,1.25166
+2014,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),,4.10372
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Food and beverage serving activities,1.15024
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Railway passenger transport services,0.14156
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Road passenger transport services,0.05775
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Water passenger transport services,0.01143
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Air passenger transport services,0.04887
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Transport equipment rental services,0.01561
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Travel agencies and other reservation services,0.01092
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Cultural activities,0.16233
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Sport and recreation activities,0.23690
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Exhibitions and conferences,0.00592
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Other consumption products,1.13261
+2014,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),,2.97418
+2014,Percentage (%) of gross domestic product (GDP),,,Accommodation services for visitors,0.79645
+2014,Percentage (%) of gross domestic product (GDP),,,Food and beverage serving activities,1.64605
+2014,Percentage (%) of gross domestic product (GDP),,,Railway passenger transport services,0.23618
+2014,Percentage (%) of gross domestic product (GDP),,,Road passenger transport services,0.14081
+2014,Percentage (%) of gross domestic product (GDP),,,Water passenger transport services,0.06106
+2014,Percentage (%) of gross domestic product (GDP),,,Air passenger transport services,1.11166
+2014,Percentage (%) of gross domestic product (GDP),,,Transport equipment rental services,0.03401
+2014,Percentage (%) of gross domestic product (GDP),,,Travel agencies and other reservation services,0.15885
+2014,Percentage (%) of gross domestic product (GDP),,,Cultural activities,0.22101
+2014,Percentage (%) of gross domestic product (GDP),,,Sport and recreation activities,0.27282
+2014,Percentage (%) of gross domestic product (GDP),,,Exhibitions and conferences,0.01471
+2014,Percentage (%) of gross domestic product (GDP),,,Other consumption products,2.38428
+2014,Percentage (%) of gross domestic product (GDP),,,,7.07790
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Accommodation services for visitors,0.30114
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Food and beverage serving activities,0.20263
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Railway passenger transport services,0.01985
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Road passenger transport services,0.02814
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Water passenger transport services,0.02033
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Air passenger transport services,0.15642
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Transport equipment rental services,0.00856
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Travel agencies and other reservation services,0.00601
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Cultural activities,0.01167
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Sport and recreation activities,0.00915
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Exhibitions and conferences,0.00481
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),Other consumption products,0.56255
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Tourists (overnight visitors),,1.33126
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Food and beverage serving activities,0.00192
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Railway passenger transport services,0.00178
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Road passenger transport services,0.00027
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Water passenger transport services,0.00190
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Air passenger transport services,0.01798
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Transport equipment rental services,0.00008
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Travel agencies and other reservation services,0.00006
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Cultural activities,0.00011
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Sport and recreation activities,0.00009
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Exhibitions and conferences,0.00005
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),Other consumption products,0.00532
+2015,Percentage (%) of gross domestic product (GDP),Inbound,Excursionists (same-day visitors),,0.02954
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Accommodation services for visitors,0.30114
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Food and beverage serving activities,0.20455
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Railway passenger transport services,0.02162
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Road passenger transport services,0.02841
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Water passenger transport services,0.02223
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Air passenger transport services,0.17440
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Transport equipment rental services,0.00864
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Travel agencies and other reservation services,0.00607
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Cultural activities,0.01178
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Sport and recreation activities,0.00923
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Exhibitions and conferences,0.00486
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,Other consumption products,0.56787
+2015,Percentage (%) of gross domestic product (GDP),Inbound,,,1.36080
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Accommodation services for visitors,0.47199
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Food and beverage serving activities,0.28867
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Railway passenger transport services,0.04389
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Road passenger transport services,0.01497
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Water passenger transport services,0.00474
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Air passenger transport services,0.03225
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Transport equipment rental services,0.00981
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Travel agencies and other reservation services,0.05262
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Cultural activities,0.05058
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Sport and recreation activities,0.02915
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Exhibitions and conferences,0.00305
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),Other consumption products,0.35708
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Tourists (overnight visitors),,1.35881
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Food and beverage serving activities,1.12420
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Railway passenger transport services,0.13228
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Road passenger transport services,0.05610
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Water passenger transport services,0.00893
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Air passenger transport services,0.02137
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Transport equipment rental services,0.01522
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Travel agencies and other reservation services,0.01065
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Cultural activities,0.15883
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Sport and recreation activities,0.23186
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Exhibitions and conferences,0.00574
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),Other consumption products,1.10222
+2015,Percentage (%) of gross domestic product (GDP),Domestic,Excursionists (same-day visitors),,2.86738
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Accommodation services for visitors,0.47199
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Food and beverage serving activities,1.41287
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Railway passenger transport services,0.17617
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Road passenger transport services,0.07106
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Water passenger transport services,0.01366
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Air passenger transport services,0.05362
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Transport equipment rental services,0.02503
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Travel agencies and other reservation services,0.06327
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Cultural activities,0.20941
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Sport and recreation activities,0.26100
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Exhibitions and conferences,0.00880
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,Other consumption products,1.45930
+2015,Percentage (%) of gross domestic product (GDP),Domestic,,,4.22619
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Accommodation services for visitors,0.04013
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Food and beverage serving activities,0.03716
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Railway passenger transport services,0.03137
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Road passenger transport services,0.04407
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Water passenger transport services,0.01957
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Air passenger transport services,0.88700
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Travel agencies and other reservation services,0.09474
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),Other consumption products,0.37147
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Tourists (overnight visitors),,1.52552
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Food and beverage serving activities,0.00017
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Railway passenger transport services,0.00232
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Road passenger transport services,0.00020
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Water passenger transport services,0.00048
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Air passenger transport services,0.00659
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),Other consumption products,0.00167
+2015,Percentage (%) of gross domestic product (GDP),Outbound,Excursionists (same-day visitors),,0.01142
+2015,Percentage (%) of gross domestic product (GDP),Outbound,,Accommodation services for visitors,0.04013
+2015,Percentage (%) of gross domestic product (GDP),Outbound,,Food and beverage serving activities,0.03733
+2015,Percentage (%) of gross domestic product (GDP),Outbound,,Railway passenger transport services,0.03369
+2015,Percentage (%) of gross domestic product (GDP),Outbound,,Road passenger transport services,0.04427
+2015,Percentage (%) of gross domestic product (GDP),Outbound,,Water passenger transport services,0.02005
+2015,Percentage (%) of gross domestic product (GDP),Outbound,,Air passenger transport services,0.89359
+2015,Percentage (%) of gross domestic product (GDP),Outbound,,Travel agencies and other reservation services,0.09474
+2015,Percentage (%) of gross domestic product (GDP),Outbound,,Other consumption products,0.37314
+2015,Percentage (%) of gross domestic product (GDP),Outbound,,,1.53694
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Accommodation services for visitors,0.81326
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Food and beverage serving activities,0.52847
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Railway passenger transport services,0.09511
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Road passenger transport services,0.08718
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Water passenger transport services,0.04464
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Air passenger transport services,1.07567
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Transport equipment rental services,0.01838
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Travel agencies and other reservation services,0.15337
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Cultural activities,0.06225
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Sport and recreation activities,0.03829
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Exhibitions and conferences,0.00787
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),Other consumption products,1.29111
+2015,Percentage (%) of gross domestic product (GDP),,Tourists (overnight visitors),,4.21559
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Food and beverage serving activities,1.12628
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Railway passenger transport services,0.13638
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Road passenger transport services,0.05656
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Water passenger transport services,0.01131
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Air passenger transport services,0.04594
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Transport equipment rental services,0.01530
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Travel agencies and other reservation services,0.01070
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Cultural activities,0.15894
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Sport and recreation activities,0.23194
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Exhibitions and conferences,0.00579
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),Other consumption products,1.10920
+2015,Percentage (%) of gross domestic product (GDP),,Excursionists (same-day visitors),,2.90835
+2015,Percentage (%) of gross domestic product (GDP),,,Accommodation services for visitors,0.81326
+2015,Percentage (%) of gross domestic product (GDP),,,Food and beverage serving activities,1.65475
+2015,Percentage (%) of gross domestic product (GDP),,,Railway passenger transport services,0.23149
+2015,Percentage (%) of gross domestic product (GDP),,,Road passenger transport services,0.14374
+2015,Percentage (%) of gross domestic product (GDP),,,Water passenger transport services,0.05595
+2015,Percentage (%) of gross domestic product (GDP),,,Air passenger transport services,1.12161
+2015,Percentage (%) of gross domestic product (GDP),,,Transport equipment rental services,0.03367
+2015,Percentage (%) of gross domestic product (GDP),,,Travel agencies and other reservation services,0.16407
+2015,Percentage (%) of gross domestic product (GDP),,,Cultural activities,0.22119
+2015,Percentage (%) of gross domestic product (GDP),,,Sport and recreation activities,0.27024
+2015,Percentage (%) of gross domestic product (GDP),,,Exhibitions and conferences,0.01365
+2015,Percentage (%) of gross domestic product (GDP),,,Other consumption products,2.40031
+2015,Percentage (%) of gross domestic product (GDP),,,,7.12393
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Accommodation services for visitors,1.73982
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Food and beverage serving activities,1.85349
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Railway passenger transport services,-2.58016
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Road passenger transport services,0.46118
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Water passenger transport services,-4.50429
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Air passenger transport services,0.05859
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Transport equipment rental services,24.92013
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Travel agencies and other reservation services,-1.89019
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Cultural activities,1.64986
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Sport and recreation activities,-1.12693
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Exhibitions and conferences,-22.63437
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),Other consumption products,4.33681
+2013,Growth rate (%),Inbound,Tourists (overnight visitors),,2.37807
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),Food and beverage serving activities,-10.77348
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),Railway passenger transport services,-5.48303
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),Road passenger transport services,-13.72549
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),Water passenger transport services,-13.45029
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),Air passenger transport services,-0.07874
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),Transport equipment rental services,8.33333
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),Travel agencies and other reservation services,-18.18182
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),Cultural activities,-9.52381
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),Sport and recreation activities,-12.50000
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),Exhibitions and conferences,-30.76923
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),Other consumption products,-8.65580
+2013,Growth rate (%),Inbound,Excursionists (same-day visitors),,-3.48159
+2013,Growth rate (%),Inbound,,Accommodation services for visitors,1.73982
+2013,Growth rate (%),Inbound,,Food and beverage serving activities,1.73189
+2013,Growth rate (%),Inbound,,Railway passenger transport services,-2.83429
+2013,Growth rate (%),Inbound,,Road passenger transport services,0.34253
+2013,Growth rate (%),Inbound,,Water passenger transport services,-5.17849
+2013,Growth rate (%),Inbound,,Air passenger transport services,0.04570
+2013,Growth rate (%),Inbound,,Transport equipment rental services,24.76266
+2013,Growth rate (%),Inbound,,Travel agencies and other reservation services,-2.04991
+2013,Growth rate (%),Inbound,,Cultural activities,1.49728
+2013,Growth rate (%),Inbound,,Sport and recreation activities,-1.23384
+2013,Growth rate (%),Inbound,,Exhibitions and conferences,-22.71364
+2013,Growth rate (%),Inbound,,Other consumption products,4.21169
+2013,Growth rate (%),Inbound,,,2.23707
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Accommodation services for visitors,2.52554
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Food and beverage serving activities,-1.18807
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Railway passenger transport services,-11.25457
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Road passenger transport services,4.13845
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Water passenger transport services,-62.36179
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Air passenger transport services,100.21490
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Transport equipment rental services,-11.24576
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Travel agencies and other reservation services,0.24195
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Cultural activities,-1.84657
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Sport and recreation activities,-13.48099
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Exhibitions and conferences,-32.69877
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),Other consumption products,-9.24279
+2013,Growth rate (%),Domestic,Tourists (overnight visitors),,-2.37320
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),Food and beverage serving activities,-4.89754
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),Railway passenger transport services,3.00314
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),Road passenger transport services,-19.85751
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),Water passenger transport services,-76.04611
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),Air passenger transport services,-25.44882
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),Transport equipment rental services,-7.87022
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),Travel agencies and other reservation services,-36.64773
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),Cultural activities,-30.70157
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),Sport and recreation activities,70.14443
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),Exhibitions and conferences,-70.45827
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),Other consumption products,8.40099
+2013,Growth rate (%),Domestic,Excursionists (same-day visitors),,-0.48899
+2013,Growth rate (%),Domestic,,Accommodation services for visitors,2.52554
+2013,Growth rate (%),Domestic,,Food and beverage serving activities,-4.23941
+2013,Growth rate (%),Domestic,,Railway passenger transport services,-0.77976
+2013,Growth rate (%),Domestic,,Road passenger transport services,-15.83396
+2013,Growth rate (%),Domestic,,Water passenger transport services,-72.72531
+2013,Growth rate (%),Domestic,,Air passenger transport services,17.36425
+2013,Growth rate (%),Domestic,,Transport equipment rental services,-9.21561
+2013,Growth rate (%),Domestic,,Travel agencies and other reservation services,-8.97901
+2013,Growth rate (%),Domestic,,Cultural activities,-25.83258
+2013,Growth rate (%),Domestic,,Sport and recreation activities,54.88686
+2013,Growth rate (%),Domestic,,Exhibitions and conferences,-63.08401
+2013,Growth rate (%),Domestic,,Other consumption products,3.76829
+2013,Growth rate (%),Domestic,,,-1.06902
+2013,Growth rate (%),Outbound,Tourists (overnight visitors),Accommodation services for visitors,10.25724
+2013,Growth rate (%),Outbound,Tourists (overnight visitors),Food and beverage serving activities,5.25043
+2013,Growth rate (%),Outbound,Tourists (overnight visitors),Railway passenger transport services,5.79763
+2013,Growth rate (%),Outbound,Tourists (overnight visitors),Road passenger transport services,5.54356
+2013,Growth rate (%),Outbound,Tourists (overnight visitors),Water passenger transport services,12.18367
+2013,Growth rate (%),Outbound,Tourists (overnight visitors),Air passenger transport services,2.38806
+2013,Growth rate (%),Outbound,Tourists (overnight visitors),Travel agencies and other reservation services,0.00000
+2013,Growth rate (%),Outbound,Tourists (overnight visitors),Other consumption products,8.72074
+2013,Growth rate (%),Outbound,Tourists (overnight visitors),,4.20472
+2013,Growth rate (%),Outbound,Excursionists (same-day visitors),Food and beverage serving activities,3.03030
+2013,Growth rate (%),Outbound,Excursionists (same-day visitors),Railway passenger transport services,68.29268
+2013,Growth rate (%),Outbound,Excursionists (same-day visitors),Road passenger transport services,2.56410
+2013,Growth rate (%),Outbound,Excursionists (same-day visitors),Water passenger transport services,-60.42296
+2013,Growth rate (%),Outbound,Excursionists (same-day visitors),Air passenger transport services,-12.16617
+2013,Growth rate (%),Outbound,Excursionists (same-day visitors),Other consumption products,5.42169
+2013,Growth rate (%),Outbound,Excursionists (same-day visitors),,-0.27184
+2013,Growth rate (%),Outbound,,Accommodation services for visitors,10.25724
+2013,Growth rate (%),Outbound,,Food and beverage serving activities,5.22068
+2013,Growth rate (%),Outbound,,Railway passenger transport services,10.95867
+2013,Growth rate (%),Outbound,,Road passenger transport services,5.52692
+2013,Growth rate (%),Outbound,,Water passenger transport services,6.46169
+2013,Growth rate (%),Outbound,,Air passenger transport services,2.26474
+2013,Growth rate (%),Outbound,,Travel agencies and other reservation services,0.00000
+2013,Growth rate (%),Outbound,,Other consumption products,8.70385
+2013,Growth rate (%),Outbound,,,4.16103
+2013,Growth rate (%),,Tourists (overnight visitors),Accommodation services for visitors,2.55585
+2013,Growth rate (%),,Tourists (overnight visitors),Food and beverage serving activities,0.46444
+2013,Growth rate (%),,Tourists (overnight visitors),Railway passenger transport services,-4.22404
+2013,Growth rate (%),,Tourists (overnight visitors),Road passenger transport services,3.50510
+2013,Growth rate (%),,Tourists (overnight visitors),Water passenger transport services,-11.00097
+2013,Growth rate (%),,Tourists (overnight visitors),Air passenger transport services,3.47243
+2013,Growth rate (%),,Tourists (overnight visitors),Transport equipment rental services,2.41327
+2013,Growth rate (%),,Tourists (overnight visitors),Travel agencies and other reservation services,0.00733
+2013,Growth rate (%),,Tourists (overnight visitors),Cultural activities,-1.15016
+2013,Growth rate (%),,Tourists (overnight visitors),Sport and recreation activities,-10.67385
+2013,Growth rate (%),,Tourists (overnight visitors),Exhibitions and conferences,-26.69377
+2013,Growth rate (%),,Tourists (overnight visitors),Other consumption products,1.39636
+2013,Growth rate (%),,Tourists (overnight visitors),,1.47948
+2013,Growth rate (%),,Excursionists (same-day visitors),Food and beverage serving activities,-4.90590
+2013,Growth rate (%),,Excursionists (same-day visitors),Railway passenger transport services,4.15421
+2013,Growth rate (%),,Excursionists (same-day visitors),Road passenger transport services,-19.76814
+2013,Growth rate (%),,Excursionists (same-day visitors),Water passenger transport services,-72.59384
+2013,Growth rate (%),,Excursionists (same-day visitors),Air passenger transport services,-14.60089
+2013,Growth rate (%),,Excursionists (same-day visitors),Transport equipment rental services,-7.80800
+2013,Growth rate (%),,Excursionists (same-day visitors),Travel agencies and other reservation services,-36.58383
+2013,Growth rate (%),,Excursionists (same-day visitors),Cultural activities,-30.69128
+2013,Growth rate (%),,Excursionists (same-day visitors),Sport and recreation activities,70.09299
+2013,Growth rate (%),,Excursionists (same-day visitors),Exhibitions and conferences,-70.31802
+2013,Growth rate (%),,Excursionists (same-day visitors),Other consumption products,8.30907
+2013,Growth rate (%),,Excursionists (same-day visitors),,-0.52054
+2013,Growth rate (%),,,Accommodation services for visitors,2.55585
+2013,Growth rate (%),,,Food and beverage serving activities,-3.34999
+2013,Growth rate (%),,,Railway passenger transport services,0.63263
+2013,Growth rate (%),,,Road passenger transport services,-7.49706
+2013,Growth rate (%),,,Water passenger transport services,-37.35824
+2013,Growth rate (%),,,Air passenger transport services,2.51911
+2013,Growth rate (%),,,Transport equipment rental services,-2.54658
+2013,Growth rate (%),,,Travel agencies and other reservation services,-3.80956
+2013,Growth rate (%),,,Cultural activities,-24.72084
+2013,Growth rate (%),,,Sport and recreation activities,52.00314
+2013,Growth rate (%),,,Exhibitions and conferences,-53.94536
+2013,Growth rate (%),,,Other consumption products,4.56666
+2013,Growth rate (%),,,,0.62934
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Accommodation services for visitors,-1.09440
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Food and beverage serving activities,-0.92812
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Railway passenger transport services,3.74848
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Road passenger transport services,-1.65146
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Water passenger transport services,4.33566
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Air passenger transport services,-1.73059
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Transport equipment rental services,-3.30121
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Travel agencies and other reservation services,-3.95743
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Cultural activities,0.63846
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Sport and recreation activities,-3.49945
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Exhibitions and conferences,12.46860
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),Other consumption products,-0.82314
+2014,Growth rate (%),Inbound,Tourists (overnight visitors),,-0.86529
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),Food and beverage serving activities,-10.72490
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),Railway passenger transport services,7.81318
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),Road passenger transport services,-12.44189
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),Water passenger transport services,-17.51523
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),Air passenger transport services,12.10059
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),Transport equipment rental services,-14.97650
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),Travel agencies and other reservation services,-16.11369
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),Cultural activities,-8.80576
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),Sport and recreation activities,-14.26985
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),Exhibitions and conferences,4.76935
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),Other consumption products,-10.69569
+2014,Growth rate (%),Inbound,Excursionists (same-day visitors),,3.85491
+2014,Growth rate (%),Inbound,,Accommodation services for visitors,-1.09440
+2014,Growth rate (%),Inbound,,Food and beverage serving activities,-1.01986
+2014,Growth rate (%),Inbound,,Railway passenger transport services,4.08263
+2014,Growth rate (%),Inbound,,Road passenger transport services,-1.73388
+2014,Growth rate (%),Inbound,,Water passenger transport services,2.46839
+2014,Growth rate (%),Inbound,,Air passenger transport services,-0.30459
+2014,Growth rate (%),Inbound,,Transport equipment rental services,-3.41055
+2014,Growth rate (%),Inbound,,Travel agencies and other reservation services,-4.07128
+2014,Growth rate (%),Inbound,,Cultural activities,0.55002
+2014,Growth rate (%),Inbound,,Sport and recreation activities,-3.60031
+2014,Growth rate (%),Inbound,,Exhibitions and conferences,12.39650
+2014,Growth rate (%),Inbound,,Other consumption products,-0.91560
+2014,Growth rate (%),Inbound,,,-0.76283
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Accommodation services for visitors,-5.87193
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Food and beverage serving activities,-12.89902
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Railway passenger transport services,-6.31309
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Road passenger transport services,-2.07880
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Water passenger transport services,-4.87702
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Air passenger transport services,-8.22331
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Transport equipment rental services,-1.20751
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Travel agencies and other reservation services,-4.12281
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Cultural activities,-9.87097
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Sport and recreation activities,-9.88163
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Exhibitions and conferences,4.19457
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),Other consumption products,-8.17521
+2014,Growth rate (%),Domestic,Tourists (overnight visitors),,-8.10574
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),Food and beverage serving activities,-0.19719
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),Railway passenger transport services,-0.19770
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),Road passenger transport services,-0.19927
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),Water passenger transport services,-0.18366
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),Air passenger transport services,-0.20931
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),Transport equipment rental services,-0.20575
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),Travel agencies and other reservation services,-0.17952
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),Cultural activities,-0.19771
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),Sport and recreation activities,-0.19799
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),Exhibitions and conferences,-0.16992
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),Other consumption products,-0.19698
+2014,Growth rate (%),Domestic,Excursionists (same-day visitors),,-0.19706
+2014,Growth rate (%),Domestic,,Accommodation services for visitors,-5.87193
+2014,Growth rate (%),Domestic,,Food and beverage serving activities,-2.79239
+2014,Growth rate (%),Domestic,,Railway passenger transport services,-1.72134
+2014,Growth rate (%),Domestic,,Road passenger transport services,-0.59512
+2014,Growth rate (%),Domestic,,Water passenger transport services,-1.84940
+2014,Growth rate (%),Domestic,,Air passenger transport services,-5.02917
+2014,Growth rate (%),Domestic,,Transport equipment rental services,-0.59850
+2014,Growth rate (%),Domestic,,Travel agencies and other reservation services,-3.45931
+2014,Growth rate (%),Domestic,,Cultural activities,-2.53433
+2014,Growth rate (%),Domestic,,Sport and recreation activities,-1.27734
+2014,Growth rate (%),Domestic,,Exhibitions and conferences,1.28494
+2014,Growth rate (%),Domestic,,Other consumption products,-2.14921
+2014,Growth rate (%),Domestic,,,-2.73986
+2014,Growth rate (%),Outbound,Tourists (overnight visitors),Accommodation services for visitors,-10.08752
+2014,Growth rate (%),Outbound,Tourists (overnight visitors),Food and beverage serving activities,-13.18130
+2014,Growth rate (%),Outbound,Tourists (overnight visitors),Railway passenger transport services,-2.06139
+2014,Growth rate (%),Outbound,Tourists (overnight visitors),Road passenger transport services,-11.93383
+2014,Growth rate (%),Outbound,Tourists (overnight visitors),Water passenger transport services,16.33388
+2014,Growth rate (%),Outbound,Tourists (overnight visitors),Air passenger transport services,-3.59410
+2014,Growth rate (%),Outbound,Tourists (overnight visitors),Travel agencies and other reservation services,-6.78226
+2014,Growth rate (%),Outbound,Tourists (overnight visitors),Other consumption products,-9.23679
+2014,Growth rate (%),Outbound,Tourists (overnight visitors),,-5.52390
+2014,Growth rate (%),Outbound,Excursionists (same-day visitors),Food and beverage serving activities,7.98843
+2014,Growth rate (%),Outbound,Excursionists (same-day visitors),Railway passenger transport services,88.83038
+2014,Growth rate (%),Outbound,Excursionists (same-day visitors),Road passenger transport services,7.14024
+2014,Growth rate (%),Outbound,Excursionists (same-day visitors),Water passenger transport services,43.59756
+2014,Growth rate (%),Outbound,Excursionists (same-day visitors),Air passenger transport services,-4.86840
+2014,Growth rate (%),Outbound,Excursionists (same-day visitors),Other consumption products,11.21298
+2014,Growth rate (%),Outbound,Excursionists (same-day visitors),,19.00799
+2014,Growth rate (%),Outbound,,Accommodation services for visitors,-10.08752
+2014,Growth rate (%),Outbound,,Food and beverage serving activities,-13.10095
+2014,Growth rate (%),Outbound,,Railway passenger transport services,4.21726
+2014,Growth rate (%),Outbound,,Road passenger transport services,-11.84866
+2014,Growth rate (%),Outbound,,Water passenger transport services,17.01696
+2014,Growth rate (%),Outbound,,Air passenger transport services,-3.60350
+2014,Growth rate (%),Outbound,,Travel agencies and other reservation services,-6.78226
+2014,Growth rate (%),Outbound,,Other consumption products,-9.14405
+2014,Growth rate (%),Outbound,,,-5.34155
+2014,Growth rate (%),,Tourists (overnight visitors),Accommodation services for visitors,-4.31088
+2014,Growth rate (%),,Tourists (overnight visitors),Food and beverage serving activities,-8.32882
+2014,Growth rate (%),,Tourists (overnight visitors),Railway passenger transport services,-2.81122
+2014,Growth rate (%),,Tourists (overnight visitors),Road passenger transport services,-6.92244
+2014,Growth rate (%),,Tourists (overnight visitors),Water passenger transport services,8.61806
+2014,Growth rate (%),,Tourists (overnight visitors),Air passenger transport services,-3.46190
+2014,Growth rate (%),,Tourists (overnight visitors),Transport equipment rental services,-2.18318
+2014,Growth rate (%),,Tourists (overnight visitors),Travel agencies and other reservation services,-5.75912
+2014,Growth rate (%),,Tourists (overnight visitors),Cultural activities,-7.90108
+2014,Growth rate (%),,Tourists (overnight visitors),Sport and recreation activities,-8.35726
+2014,Growth rate (%),,Tourists (overnight visitors),Exhibitions and conferences,9.25588
+2014,Growth rate (%),,Tourists (overnight visitors),Other consumption products,-5.27727
+2014,Growth rate (%),,Tourists (overnight visitors),,-4.88494
+2014,Growth rate (%),,Excursionists (same-day visitors),Food and beverage serving activities,-0.21389
+2014,Growth rate (%),,Excursionists (same-day visitors),Railway passenger transport services,1.42224
+2014,Growth rate (%),,Excursionists (same-day visitors),Road passenger transport services,-0.23121
+2014,Growth rate (%),,Excursionists (same-day visitors),Water passenger transport services,-1.22546
+2014,Growth rate (%),,Excursionists (same-day visitors),Air passenger transport services,3.94029
+2014,Growth rate (%),,Excursionists (same-day visitors),Transport equipment rental services,-0.28392
+2014,Growth rate (%),,Excursionists (same-day visitors),Travel agencies and other reservation services,-0.26409
+2014,Growth rate (%),,Excursionists (same-day visitors),Cultural activities,-0.20368
+2014,Growth rate (%),,Excursionists (same-day visitors),Sport and recreation activities,-0.20323
+2014,Growth rate (%),,Excursionists (same-day visitors),Exhibitions and conferences,-0.13112
+2014,Growth rate (%),,Excursionists (same-day visitors),Other consumption products,-0.23017
+2014,Growth rate (%),,Excursionists (same-day visitors),,-0.08046
+2014,Growth rate (%),,,Accommodation services for visitors,-4.31088
+2014,Growth rate (%),,,Food and beverage serving activities,-2.80584
+2014,Growth rate (%),,,Railway passenger transport services,-0.31484
+2014,Growth rate (%),,,Road passenger transport services,-4.28582
+2014,Growth rate (%),,,Water passenger transport services,6.62824
+2014,Growth rate (%),,,Air passenger transport services,-3.15871
+2014,Growth rate (%),,,Transport equipment rental services,-1.32039
+2014,Growth rate (%),,,Travel agencies and other reservation services,-5.40069
+2014,Growth rate (%),,,Cultural activities,-2.37008
+2014,Growth rate (%),,,Sport and recreation activities,-1.35670
+2014,Growth rate (%),,,Exhibitions and conferences,5.23715
+2014,Growth rate (%),,,Other consumption products,-2.94474
+2014,Growth rate (%),,,,-2.92351

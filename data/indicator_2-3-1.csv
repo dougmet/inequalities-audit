@@ -1,266 +1,325 @@
-Year,Units,Crop Category,Crop,Livestock,Geography,Timber Category,Ownership,Value
-2009,Land use (000s hectares),Arable crops,,,,,,4436913.203
-2009,Land use (000s hectares),Arable crops,Wheat,,,,,1775337.11
-2009,Land use (000s hectares),Arable crops,Barley,,,,,1142982.472
-2009,Land use (000s hectares),Arable crops,Oats,,,,,129106.5123
-2009,Land use (000s hectares),Arable crops,"Rye, mixed corn & triticale",,,,,28301.4691
-2009,Land use (000s hectares),Arable crops,Oilseed rape,,,,,569921.4295
-2009,Land use (000s hectares),Arable crops,Linseed,,,,,27782.4704
-2009,Land use (000s hectares),Arable crops,Potatoes,,,,,144438.393
-2009,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,114251.8771
-2009,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,228106.7084
-2009,Land use (000s hectares),Arable crops,Maize,,,,,163101.5016
-2009,Land use (000s hectares),Horticultural crops,,,,,,170016.3906
-2009,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,124874.9575
-2009,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,22253.6191
-2009,Land use (000s hectares),Horticultural crops,Soft fruit & wine grapes,,,,,9880.2256
-2009,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11242.9401
-2009,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,1764.6483
-2009,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1241030.512
-2009,Land use (000s hectares),Permanent grassland,,,,,,9995830.028
-2009,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5864572.563
-2009,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,4131257.466
-2009,Land use (000s hectares),Common rough grazing,,,,,,1236532.2
-2009,Land use (000s hectares),Other land on agricultural holdings,,,,,,971868.788
-2009,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,725670.0423
-2009,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,246198.7457
-2010,Land use (000s hectares),Arable crops,,,,,,4441442.26
-2010,Land use (000s hectares),Arable crops,Wheat,,,,,1938578
-2010,Land use (000s hectares),Arable crops,Barley,,,,,921162
-2010,Land use (000s hectares),Arable crops,Oats,,,,,124460
-2010,Land use (000s hectares),Arable crops,"Rye, mixed corn & triticale",,,,,29030.1
-2010,Land use (000s hectares),Arable crops,Oilseed rape,,,,,641562
-2010,Land use (000s hectares),Arable crops,Linseed,,,,,43838
-2010,Land use (000s hectares),Arable crops,Potatoes,,,,,138310
-2010,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,118493
-2010,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,210053
-2010,Land use (000s hectares),Arable crops,Maize,,,,,163928
-2010,Land use (000s hectares),Horticultural crops,,,,,,168934.9072
-2010,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,121141.9
-2010,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,23959.5
-2010,Land use (000s hectares),Horticultural crops,Soft fruit & wine grapes,,,,,10365.1
-2010,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11717.71
-2010,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,1750.6972
-2010,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1231501
-2010,Land use (000s hectares),Permanent grassland,,,,,,9979795
-2010,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5925203
-2010,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,4054592
-2010,Land use (000s hectares),Common rough grazing,,,,,,1228359.5
-2010,Land use (000s hectares),Other land on agricultural holdings,,,,,,1058844
-2010,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,773963
-2010,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,10470
-2010,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,274411
-2011,Land use (000s hectares),Arable crops,,,,,,4497317.6
-2011,Land use (000s hectares),Arable crops,Wheat,,,,,1969383.4
-2011,Land use (000s hectares),Arable crops,Barley,,,,,969755.7
-2011,Land use (000s hectares),Arable crops,Oats,,,,,108603.6
-2011,Land use (000s hectares),Arable crops,"Rye, mixed corn & triticale",,,,,27497.1
-2011,Land use (000s hectares),Arable crops,Oilseed rape,,,,,704559.4
-2011,Land use (000s hectares),Arable crops,Linseed,,,,,36453
-2011,Land use (000s hectares),Arable crops,Potatoes,,,,,146122.6
-2011,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,112715
-2011,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,155317.8
-2011,Land use (000s hectares),Arable crops,Maize,,,,,164430.2
-2011,Land use (000s hectares),Horticultural crops,,,,,,175309.0706
-2011,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,128678.9
-2011,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,23664.8
-2011,Land use (000s hectares),Horticultural crops,Soft fruit & wine grapes,,,,,9729.5
-2011,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11258.4
-2011,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,1977.4706
-2011,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1277840.1
-2011,Land use (000s hectares),Permanent grassland,,,,,,9858274.4
-2011,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5876952.9
-2011,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3981321.5
-2011,Land use (000s hectares),Common rough grazing,,,,,,1199020.7
-2011,Land use (000s hectares),Other land on agricultural holdings,,,,,,1099829.1
-2011,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,785927.6
-2011,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,8652
-2011,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,305249.5
-2012,Land use (000s hectares),Arable crops,,,,,,4575702.1
-2012,Land use (000s hectares),Arable crops,Wheat,,,,,1991874.8
-2012,Land use (000s hectares),Arable crops,Barley,,,,,1002183.2
-2012,Land use (000s hectares),Arable crops,Oats,,,,,121923.3
-2012,Land use (000s hectares),Arable crops,"Rye, mixed corn & triticale",,,,,25990
-2012,Land use (000s hectares),Arable crops,Oilseed rape,,,,,755684.9
-2012,Land use (000s hectares),Arable crops,Linseed,,,,,29281.4
-2012,Land use (000s hectares),Arable crops,Potatoes,,,,,148771
-2012,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,120081
-2012,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,120066
-2012,Land use (000s hectares),Arable crops,Maize,,,,,157717.7
-2012,Land use (000s hectares),Horticultural crops,,,,,,171872.7654
-2012,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,123459.9
-2012,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,24185
-2012,Land use (000s hectares),Horticultural crops,Soft fruit & wine grapes,,,,,9333.7
-2012,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,12308.2
-2012,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,2585.9654
-2012,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1356614
-2012,Land use (000s hectares),Permanent grassland,,,,,,9724882.4
-2012,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5799215.2
-2012,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3925667.2
-2012,Land use (000s hectares),Common rough grazing,,,,,,1199782.607
-2012,Land use (000s hectares),Other land on agricultural holdings,,,,,,1166412
-2012,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,827459.4
-2012,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,7268
-2012,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,331684.6
-2013,Land use (000s hectares),Arable crops,,,,,,4501776.32
-2013,Land use (000s hectares),Arable crops,Wheat,,,,,1614511.4
-2013,Land use (000s hectares),Arable crops,Barley,,,,,1212996.7
-2013,Land use (000s hectares),Arable crops,Oats,,,,,176540.6
-2013,Land use (000s hectares),Arable crops,"Rye, mixed corn & triticale",,,,,24214
-2013,Land use (000s hectares),Arable crops,Oilseed rape,,,,,715218.5
-2013,Land use (000s hectares),Arable crops,Linseed,,,,,34498
-2013,Land use (000s hectares),Arable crops,Potatoes,,,,,139292.8
-2013,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,116973
-2013,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,147299.2
-2013,Land use (000s hectares),Arable crops,Maize,,,,,194476.7
-2013,Land use (000s hectares),Horticultural crops,,,,,,163354.6475
-2013,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,115929.98
-2013,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,23397.99
-2013,Land use (000s hectares),Horticultural crops,Soft fruit & wine grapes,,,,,9579.98
-2013,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11891.2
-2013,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,2555.49751
-2013,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1389665.13
-2013,Land use (000s hectares),Permanent grassland,,,,,,9741601.75
-2013,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5801747.02
-2013,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3939854.73
-2013,Land use (000s hectares),Common rough grazing,,,,,,1198387.8
-2013,Land use (000s hectares),Other land on agricultural holdings,,,,,,1198455.68
-2013,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,865397.36
-2013,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,8941
-2013,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,324117.32
-2014,Land use (000s hectares),Arable crops,,,,,,4558700.011
-2014,Land use (000s hectares),Arable crops,Wheat,,,,,1935736.72
-2014,Land use (000s hectares),Arable crops,Barley,,,,,1079825.52
-2014,Land use (000s hectares),Arable crops,Oats,,,,,137233.2
-2014,Land use (000s hectares),Arable crops,"Rye, mixed corn & triticale",,,,,26226.82
-2014,Land use (000s hectares),Arable crops,Oilseed rape,,,,,674647.32
-2014,Land use (000s hectares),Arable crops,Linseed,,,,,14538
-2014,Land use (000s hectares),Arable crops,Potatoes,,,,,140529.22
-2014,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,116293
-2014,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,138681.98
-2014,Land use (000s hectares),Arable crops,Maize,,,,,183453.01
-2014,Land use (000s hectares),Horticultural crops,,,,,,163514.6854
-2014,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,116112.41
-2014,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,23437.04
-2014,Land use (000s hectares),Horticultural crops,Soft fruit & wine grapes,,,,,9375.54
-2014,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11995.5
-2014,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,2594.1954
-2014,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1395893.44
-2014,Land use (000s hectares),Permanent grassland,,,,,,9754555.11
-2014,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5824287.24
-2014,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3930267.87
-2014,Land use (000s hectares),Common rough grazing,,,,,,1199144.853
-2014,Land use (000s hectares),Other land on agricultural holdings,,,,,,1224176.66
-2014,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,897469.02
-2014,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,8304
-2014,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,318403.64
-2015,Land use (000s hectares),Arable crops,,,,,,4504671.99
-2015,Land use (000s hectares),Arable crops,Wheat,,,,,1832311.8
-2015,Land use (000s hectares),Arable crops,Barley,,,,,1100919.7
-2015,Land use (000s hectares),Arable crops,Oats,,,,,131127
-2015,Land use (000s hectares),Arable crops,"Rye, mixed corn & triticale",,,,,35216.6
-2015,Land use (000s hectares),Arable crops,Oilseed rape,,,,,652315.1
-2015,Land use (000s hectares),Arable crops,Linseed,,,,,15023
-2015,Land use (000s hectares),Arable crops,Potatoes,,,,,128522.2
-2015,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,90317
-2015,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,213262.81
-2015,Land use (000s hectares),Arable crops,Maize,,,,,186879.6
-2015,Land use (000s hectares),Horticultural crops,,,,,,174120.0166
-2015,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,122885.4
-2015,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,25887.2
-2015,Land use (000s hectares),Horticultural crops,Soft fruit & wine grapes,,,,,9951.4
-2015,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,12729.5
-2015,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,2666.5166
-2015,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1166741.3
-2015,Land use (000s hectares),Permanent grassland,,,,,,9879701.2
-2015,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,6078421.9
-2015,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3801279.3
-2015,Land use (000s hectares),Common rough grazing,,,,,,1198985
-2015,Land use (000s hectares),Other land on agricultural holdings,,,,,,1289507.5
-2015,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,960607.4
-2015,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,9156
-2015,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,319744.1
-2016,Land use (000s hectares),Arable crops,,,,,,4505458.025
-2016,Land use (000s hectares),Arable crops,Wheat,,,,,1823336.13
-2016,Land use (000s hectares),Arable crops,Barley,,,,,1122408.63
-2016,Land use (000s hectares),Arable crops,Oats,,,,,140896.59
-2016,Land use (000s hectares),Arable crops,"Rye, mixed corn & triticale",,,,,45298.33
-2016,Land use (000s hectares),Arable crops,Oilseed rape,,,,,579169.81
-2016,Land use (000s hectares),Arable crops,Linseed,,,,,27281
-2016,Land use (000s hectares),Arable crops,Potatoes,,,,,138502.41
-2016,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,85947
-2016,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,227920.42
-2016,Land use (000s hectares),Arable crops,Maize,,,,,193794.22
-2016,Land use (000s hectares),Horticultural crops,,,,,,161945.0284
-2016,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,112554.23
-2016,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,25143.6
-2016,Land use (000s hectares),Horticultural crops,Soft fruit & wine grapes,,,,,9990.73
-2016,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11507.98
-2016,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,2748.4884
-2016,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1143509.57
-2016,Land use (000s hectares),Permanent grassland,,,,,,10078527.21
-2016,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,6117744.17
-2016,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3960783.04
-2016,Land use (000s hectares),Common rough grazing,,,,,,1198801.8
-2016,Land use (000s hectares),Other land on agricultural holdings,,,,,,1311914.56
-2016,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,978198.8
-2016,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,10301
-2016,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,323414.76
-2009,Livestock (000s),,,Pigs,,,,4540438.399
-2009,Livestock (000s),,,Sheep and lambs,,,,31445398.13
-2009,Livestock (000s),,,Poultry,,,,152752533.5
-2009,Livestock (000s),,,Goats,,,,81854.071
-2009,Livestock (000s),,,Farmed Deer,,,,31492.8926
-2009,Livestock (000s),,,Horses,,,,298074.7878
-2010,Livestock (000s),,,Cattle and calves,,,,10169828
-2010,Livestock (000s),,,Pigs,,,,4460317
-2010,Livestock (000s),,,Sheep and lambs,,,,31084338
-2010,Livestock (000s),,,Poultry,,,,163867173
-2010,Livestock (000s),,,Goats,,,,92951
-2010,Livestock (000s),,,Farmed Deer,,,,30913
-2010,Livestock (000s),,,Horses,,,,311314
-2011,Livestock (000s),,,Cattle and calves,,,,9988302
-2011,Livestock (000s),,,Pigs,,,,4440631
-2011,Livestock (000s),,,Sheep and lambs,,,,31633968
-2011,Livestock (000s),,,Poultry,,,,162551155
-2011,Livestock (000s),,,Goats,,,,94245
-2011,Livestock (000s),,,Farmed Deer,,,,32618
-2011,Livestock (000s),,,Horses,,,,312915
-2012,Livestock (000s),,,Cattle and calves,,,,9951824
-2012,Livestock (000s),,,Pigs,,,,4480904
-2012,Livestock (000s),,,Sheep and lambs,,,,32214916
-2012,Livestock (000s),,,Poultry,,,,160061200
-2012,Livestock (000s),,,Goats,,,,97801
-2012,Livestock (000s),,,Farmed Deer,,,,31152
-2012,Livestock (000s),,,Horses,,,,315092
-2013,Livestock (000s),,,Cattle and calves,,,,9843542
-2013,Livestock (000s),,,Pigs,,,,4884971
-2013,Livestock (000s),,,Sheep and lambs,,,,32856476
-2013,Livestock (000s),,,Poultry,,,,162608882
-2013,Livestock (000s),,,Goats,,,,97643
-2013,Livestock (000s),,,Farmed Deer,,,,31803
-2013,Livestock (000s),,,Horses,,,,293379
-2014,Livestock (000s),,,Cattle and calves,,,,9837142
-2014,Livestock (000s),,,Pigs,,,,4815397
-2014,Livestock (000s),,,Sheep and lambs,,,,33743346
-2014,Livestock (000s),,,Poultry,,,,169684401
-2014,Livestock (000s),,,Goats,,,,100081
-2014,Livestock (000s),,,Farmed Deer,,,,31960
-2014,Livestock (000s),,,Horses,,,,303316
-2015,Livestock (000s),,,Cattle and calves,,,,9918569
-2015,Livestock (000s),,,Pigs,,,,4739123
-2015,Livestock (000s),,,Sheep and lambs,,,,33336589.5
-2015,Livestock (000s),,,Poultry,,,,167578935
-2015,Livestock (000s),,,Goats,,,,100700
-2015,Livestock (000s),,,Farmed Deer,,,,30687
-2015,Livestock (000s),,,Horses,,,,282786
-2016,Livestock (000s),,,Cattle and calves,,,,10032569
-2016,Livestock (000s),,,Pigs,,,,4865593
-2016,Livestock (000s),,,Sheep and lambs,,,,33942509
-2016,Livestock (000s),,,Poultry,,,,172606695
-2016,Livestock (000s),,,Goats,,,,103617
-2016,Livestock (000s),,,Farmed Deer,,,,30981
-2016,Livestock (000s),,,Horses,,,,268069
+Year,Units,Crop category,Crop,Livestock,Country,Timber category,Ownership,Value
+2009,Land use (000s hectares),,,,,,,18052.19112
+2009,Land use (000s hectares),Arable crops,,,,,,4436.9132
+2009,Land use (000s hectares),Arable crops,Wheat,,,,,1775.33711
+2009,Land use (000s hectares),Arable crops,Barley,,,,,1142.98247
+2009,Land use (000s hectares),Arable crops,Oats,,,,,129.10651
+2009,Land use (000s hectares),Arable crops,"Rye, mixed corn and triticale",,,,,28.30147
+2009,Land use (000s hectares),Arable crops,Oilseed rape,,,,,569.92143
+2009,Land use (000s hectares),Arable crops,Linseed,,,,,27.78247
+2009,Land use (000s hectares),Arable crops,Potatoes,,,,,144.43839
+2009,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,114.25188
+2009,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,228.10671
+2009,Land use (000s hectares),Arable crops,Maize,,,,,163.1015
+2009,Land use (000s hectares),Horticultural crops,,,,,,170.01639
+2009,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,124.87496
+2009,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,22.25362
+2009,Land use (000s hectares),Horticultural crops,Soft fruit and wine grapes,,,,,9.88023
+2009,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11.24294
+2009,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,1.76465
+2009,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1241.03051
+2009,Land use (000s hectares),Permanent grassland,,,,,,9995.83003
+2009,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5864.57256
+2009,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,4131.25747
+2009,Land use (000s hectares),Common rough grazing,,,,,,1236.5322
+2009,Land use (000s hectares),Other land on agricultural holdings,,,,,,971.86879
+2009,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,725.67004
+2009,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,246.19875
+2010,Land use (000s hectares),,,,,,,18108.87667
+2010,Land use (000s hectares),Arable crops,,,,,,4441.44226
+2010,Land use (000s hectares),Arable crops,Wheat,,,,,1938.578
+2010,Land use (000s hectares),Arable crops,Barley,,,,,921.162
+2010,Land use (000s hectares),Arable crops,Oats,,,,,124.46
+2010,Land use (000s hectares),Arable crops,"Rye, mixed corn and triticale",,,,,29.0301
+2010,Land use (000s hectares),Arable crops,Oilseed rape,,,,,641.562
+2010,Land use (000s hectares),Arable crops,Linseed,,,,,43.838
+2010,Land use (000s hectares),Arable crops,Potatoes,,,,,138.31
+2010,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,118.493
+2010,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,210.053
+2010,Land use (000s hectares),Arable crops,Maize,,,,,163.928
+2010,Land use (000s hectares),Horticultural crops,,,,,,168.93491
+2010,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,121.1419
+2010,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,23.9595
+2010,Land use (000s hectares),Horticultural crops,Soft fruit and wine grapes,,,,,10.3651
+2010,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11.71771
+2010,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,1.7507
+2010,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1231.501
+2010,Land use (000s hectares),Permanent grassland,,,,,,9979.795
+2010,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5925.203
+2010,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,4054.592
+2010,Land use (000s hectares),Common rough grazing,,,,,,1228.3595
+2010,Land use (000s hectares),Other land on agricultural holdings,,,,,,1058.844
+2010,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,773.963
+2010,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,10.47
+2010,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,274.411
+2011,Land use (000s hectares),,,,,,,18107.59097
+2011,Land use (000s hectares),Arable crops,,,,,,4497.3176
+2011,Land use (000s hectares),Arable crops,Wheat,,,,,1969.3834
+2011,Land use (000s hectares),Arable crops,Barley,,,,,969.7557
+2011,Land use (000s hectares),Arable crops,Oats,,,,,108.6036
+2011,Land use (000s hectares),Arable crops,"Rye, mixed corn and triticale",,,,,27.4971
+2011,Land use (000s hectares),Arable crops,Oilseed rape,,,,,704.5594
+2011,Land use (000s hectares),Arable crops,Linseed,,,,,36.453
+2011,Land use (000s hectares),Arable crops,Potatoes,,,,,146.1226
+2011,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,112.715
+2011,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,155.3178
+2011,Land use (000s hectares),Arable crops,Maize,,,,,164.4302
+2011,Land use (000s hectares),Horticultural crops,,,,,,175.30907
+2011,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,128.6789
+2011,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,23.6648
+2011,Land use (000s hectares),Horticultural crops,Soft fruit and wine grapes,,,,,9.7295
+2011,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11.2584
+2011,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,1.97747
+2011,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1277.8401
+2011,Land use (000s hectares),Permanent grassland,,,,,,9858.2744
+2011,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5876.9529
+2011,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3981.3215
+2011,Land use (000s hectares),Common rough grazing,,,,,,1199.0207
+2011,Land use (000s hectares),Other land on agricultural holdings,,,,,,1099.8291
+2011,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,785.9276
+2011,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,8.652
+2011,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,305.2495
+2012,Land use (000s hectares),,,,,,,18195.26587
+2012,Land use (000s hectares),Arable crops,,,,,,4575.7021
+2012,Land use (000s hectares),Arable crops,Wheat,,,,,1991.8748
+2012,Land use (000s hectares),Arable crops,Barley,,,,,1002.1832
+2012,Land use (000s hectares),Arable crops,Oats,,,,,121.9233
+2012,Land use (000s hectares),Arable crops,"Rye, mixed corn and triticale",,,,,25.99
+2012,Land use (000s hectares),Arable crops,Oilseed rape,,,,,755.6849
+2012,Land use (000s hectares),Arable crops,Linseed,,,,,29.2814
+2012,Land use (000s hectares),Arable crops,Potatoes,,,,,148.771
+2012,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,120.081
+2012,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,120.066
+2012,Land use (000s hectares),Arable crops,Maize,,,,,157.7177
+2012,Land use (000s hectares),Horticultural crops,,,,,,171.87277
+2012,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,123.4599
+2012,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,24.185
+2012,Land use (000s hectares),Horticultural crops,Soft fruit and wine grapes,,,,,9.3337
+2012,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,12.3082
+2012,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,2.58597
+2012,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1356.614
+2012,Land use (000s hectares),Permanent grassland,,,,,,9724.8824
+2012,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5799.2152
+2012,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3925.6672
+2012,Land use (000s hectares),Common rough grazing,,,,,,1199.78261
+2012,Land use (000s hectares),Other land on agricultural holdings,,,,,,1166.412
+2012,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,827.4594
+2012,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,7.268
+2012,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,331.6846
+2013,Land use (000s hectares),,,,,,,18193.24133
+2013,Land use (000s hectares),Arable crops,,,,,,4501.77632
+2013,Land use (000s hectares),Arable crops,Wheat,,,,,1614.5114
+2013,Land use (000s hectares),Arable crops,Barley,,,,,1212.9967
+2013,Land use (000s hectares),Arable crops,Oats,,,,,176.5406
+2013,Land use (000s hectares),Arable crops,"Rye, mixed corn and triticale",,,,,24.214
+2013,Land use (000s hectares),Arable crops,Oilseed rape,,,,,715.2185
+2013,Land use (000s hectares),Arable crops,Linseed,,,,,34.498
+2013,Land use (000s hectares),Arable crops,Potatoes,,,,,139.2928
+2013,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,116.973
+2013,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,147.2992
+2013,Land use (000s hectares),Arable crops,Maize,,,,,194.4767
+2013,Land use (000s hectares),Horticultural crops,,,,,,163.35465
+2013,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,115.92998
+2013,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,23.39799
+2013,Land use (000s hectares),Horticultural crops,Soft fruit and wine grapes,,,,,9.57998
+2013,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11.8912
+2013,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,2.5555
+2013,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1389.66513
+2013,Land use (000s hectares),Permanent grassland,,,,,,9741.60175
+2013,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5801.74702
+2013,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3939.85473
+2013,Land use (000s hectares),Common rough grazing,,,,,,1198.3878
+2013,Land use (000s hectares),Other land on agricultural holdings,,,,,,1198.45568
+2013,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,865.39736
+2013,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,8.941
+2013,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,324.11732
+2014,Land use (000s hectares),,,,,,,18295.98476
+2014,Land use (000s hectares),Arable crops,,,,,,4558.70001
+2014,Land use (000s hectares),Arable crops,Wheat,,,,,1935.73672
+2014,Land use (000s hectares),Arable crops,Barley,,,,,1079.82552
+2014,Land use (000s hectares),Arable crops,Oats,,,,,137.2332
+2014,Land use (000s hectares),Arable crops,"Rye, mixed corn and triticale",,,,,26.22682
+2014,Land use (000s hectares),Arable crops,Oilseed rape,,,,,674.64732
+2014,Land use (000s hectares),Arable crops,Linseed,,,,,14.538
+2014,Land use (000s hectares),Arable crops,Potatoes,,,,,140.52922
+2014,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,116.293
+2014,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,138.68198
+2014,Land use (000s hectares),Arable crops,Maize,,,,,183.45301
+2014,Land use (000s hectares),Horticultural crops,,,,,,163.51469
+2014,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,116.11241
+2014,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,23.43704
+2014,Land use (000s hectares),Horticultural crops,Soft fruit and wine grapes,,,,,9.37554
+2014,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11.9955
+2014,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,2.5942
+2014,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1395.89344
+2014,Land use (000s hectares),Permanent grassland,,,,,,9754.55511
+2014,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,5824.28724
+2014,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3930.26787
+2014,Land use (000s hectares),Common rough grazing,,,,,,1199.14485
+2014,Land use (000s hectares),Other land on agricultural holdings,,,,,,1224.17666
+2014,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,897.46902
+2014,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,8.304
+2014,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,318.40364
+2015,Land use (000s hectares),,,,,,,18213.72701
+2015,Land use (000s hectares),Arable crops,,,,,,4504.67199
+2015,Land use (000s hectares),Arable crops,Wheat,,,,,1832.3118
+2015,Land use (000s hectares),Arable crops,Barley,,,,,1100.9197
+2015,Land use (000s hectares),Arable crops,Oats,,,,,131.127
+2015,Land use (000s hectares),Arable crops,"Rye, mixed corn and triticale",,,,,35.2166
+2015,Land use (000s hectares),Arable crops,Oilseed rape,,,,,652.3151
+2015,Land use (000s hectares),Arable crops,Linseed,,,,,15.023
+2015,Land use (000s hectares),Arable crops,Potatoes,,,,,128.5222
+2015,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,90.317
+2015,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,213.26281
+2015,Land use (000s hectares),Arable crops,Maize,,,,,186.8796
+2015,Land use (000s hectares),Horticultural crops,,,,,,174.12002
+2015,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,122.8854
+2015,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,25.8872
+2015,Land use (000s hectares),Horticultural crops,Soft fruit and wine grapes,,,,,9.9514
+2015,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,12.7295
+2015,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,2.66652
+2015,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1166.7413
+2015,Land use (000s hectares),Permanent grassland,,,,,,9879.7012
+2015,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,6078.4219
+2015,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3801.2793
+2015,Land use (000s hectares),Common rough grazing,,,,,,1198.985
+2015,Land use (000s hectares),Other land on agricultural holdings,,,,,,1289.5075
+2015,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,960.6074
+2015,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,9.156
+2015,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,319.7441
+2016,Land use (000s hectares),,,,,,,18400.15619
+2016,Land use (000s hectares),Arable crops,,,,,,4505.45803
+2016,Land use (000s hectares),Arable crops,Wheat,,,,,1823.33613
+2016,Land use (000s hectares),Arable crops,Barley,,,,,1122.40863
+2016,Land use (000s hectares),Arable crops,Oats,,,,,140.89659
+2016,Land use (000s hectares),Arable crops,"Rye, mixed corn and triticale",,,,,45.29833
+2016,Land use (000s hectares),Arable crops,Oilseed rape,,,,,579.16981
+2016,Land use (000s hectares),Arable crops,Linseed,,,,,27.281
+2016,Land use (000s hectares),Arable crops,Potatoes,,,,,138.50241
+2016,Land use (000s hectares),Arable crops,Sugar beet (not for stockfeeding),,,,,85.947
+2016,Land use (000s hectares),Arable crops,Peas for harvesting dry and field beans,,,,,227.92042
+2016,Land use (000s hectares),Arable crops,Maize,,,,,193.79422
+2016,Land use (000s hectares),Horticultural crops,,,,,,161.94503
+2016,Land use (000s hectares),Horticultural crops,Vegetables grown outdoors,,,,,112.55423
+2016,Land use (000s hectares),Horticultural crops,Orchard fruit,,,,,25.1436
+2016,Land use (000s hectares),Horticultural crops,Soft fruit and wine grapes,,,,,9.99073
+2016,Land use (000s hectares),Horticultural crops,Outdoor plants and flowers,,,,,11.50798
+2016,Land use (000s hectares),Horticultural crops,Glasshouse crops,,,,,2.74849
+2016,Land use (000s hectares),Temporary grass under 5 years old,,,,,,1143.50957
+2016,Land use (000s hectares),Permanent grassland,,,,,,10078.52721
+2016,Land use (000s hectares),Permanent grassland,Grass over 5 years old,,,,,6117.74417
+2016,Land use (000s hectares),Permanent grassland,Sole right rough grazing,,,,,3960.78304
+2016,Land use (000s hectares),Common rough grazing,,,,,,1198.8018
+2016,Land use (000s hectares),Other land on agricultural holdings,,,,,,1311.91456
+2016,Land use (000s hectares),Other land on agricultural holdings,Woodland,,,,,978.1988
+2016,Land use (000s hectares),Other land on agricultural holdings,Land used for outdoor pigs,,,,,10.301
+2016,Land use (000s hectares),Other land on agricultural holdings,All other non-agricultural land,,,,,323.41476
+2009,Livestock (000s),,,Pigs,,,,4540.4384
+2009,Livestock (000s),,,Sheep and lambs,,,,31445.39813
+2009,Livestock (000s),,,Poultry,,,,152752.5335
+2009,Livestock (000s),,,Goats,,,,81.85407
+2009,Livestock (000s),,,Farmed deer,,,,31.49289
+2009,Livestock (000s),,,Horses,,,,298.07479
+2010,Livestock (000s),,,Cattle and calves,,,,10169.828
+2010,Livestock (000s),,,Pigs,,,,4460.317
+2010,Livestock (000s),,,Sheep and lambs,,,,31084.338
+2010,Livestock (000s),,,Poultry,,,,163867.173
+2010,Livestock (000s),,,Goats,,,,92.951
+2010,Livestock (000s),,,Farmed deer,,,,30.913
+2010,Livestock (000s),,,Horses,,,,311.314
+2011,Livestock (000s),,,Cattle and calves,,,,9988.302
+2011,Livestock (000s),,,Pigs,,,,4440.631
+2011,Livestock (000s),,,Sheep and lambs,,,,31633.968
+2011,Livestock (000s),,,Poultry,,,,162551.155
+2011,Livestock (000s),,,Goats,,,,94.245
+2011,Livestock (000s),,,Farmed deer,,,,32.618
+2011,Livestock (000s),,,Horses,,,,312.915
+2012,Livestock (000s),,,Cattle and calves,,,,9951.824
+2012,Livestock (000s),,,Pigs,,,,4480.904
+2012,Livestock (000s),,,Sheep and lambs,,,,32214.916
+2012,Livestock (000s),,,Poultry,,,,160061.2
+2012,Livestock (000s),,,Goats,,,,97.801
+2012,Livestock (000s),,,Farmed deer,,,,31.152
+2012,Livestock (000s),,,Horses,,,,315.092
+2013,Livestock (000s),,,Cattle and calves,,,,9843.542
+2013,Livestock (000s),,,Pigs,,,,4884.971
+2013,Livestock (000s),,,Sheep and lambs,,,,32856.476
+2013,Livestock (000s),,,Poultry,,,,162608.882
+2013,Livestock (000s),,,Goats,,,,97.643
+2013,Livestock (000s),,,Farmed deer,,,,31.803
+2013,Livestock (000s),,,Horses,,,,293.379
+2014,Livestock (000s),,,Cattle and calves,,,,9837.142
+2014,Livestock (000s),,,Pigs,,,,4815.397
+2014,Livestock (000s),,,Sheep and lambs,,,,33743.346
+2014,Livestock (000s),,,Poultry,,,,169684.401
+2014,Livestock (000s),,,Goats,,,,100.081
+2014,Livestock (000s),,,Farmed deer,,,,31.96
+2014,Livestock (000s),,,Horses,,,,303.316
+2015,Livestock (000s),,,Cattle and calves,,,,9918.569
+2015,Livestock (000s),,,Pigs,,,,4739.123
+2015,Livestock (000s),,,Sheep and lambs,,,,33336.5895
+2015,Livestock (000s),,,Poultry,,,,167578.935
+2015,Livestock (000s),,,Goats,,,,100.7
+2015,Livestock (000s),,,Farmed deer,,,,30.687
+2015,Livestock (000s),,,Horses,,,,282.786
+2016,Livestock (000s),,,Cattle and calves,,,,10032.569
+2016,Livestock (000s),,,Pigs,,,,4865.593
+2016,Livestock (000s),,,Sheep and lambs,,,,33942.509
+2016,Livestock (000s),,,Poultry,,,,172606.695
+2016,Livestock (000s),,,Goats,,,,103.617
+2016,Livestock (000s),,,Farmed deer,,,,30.981
+2016,Livestock (000s),,,Horses,,,,268.069
+2000,Timber (000s green tonnes),,,,,,,8076
+2001,Timber (000s green tonnes),,,,,,,8126
+2002,Timber (000s green tonnes),,,,,,,8063
+2003,Timber (000s green tonnes),,,,,,,8469
+2004,Timber (000s green tonnes),,,,,,,8654
+2005,Timber (000s green tonnes),,,,,,,8670
+2006,Timber (000s green tonnes),,,,,,,8681
+2007,Timber (000s green tonnes),,,,,,,9176
+2008,Timber (000s green tonnes),,,,,,,8669
+2009,Timber (000s green tonnes),,,,,,,8928
+2010,Timber (000s green tonnes),,,,,,,9793
+2011,Timber (000s green tonnes),,,,,,,10597
+2012,Timber (000s green tonnes),,,,,,,10652
+2013,Timber (000s green tonnes),,,,,,,11497
+2014,Timber (000s green tonnes),,,,,,,12065
+2015,Timber (000s green tonnes),,,,,,,11223
+2016,Timber (000s green tonnes),,,,,,,11324
+2000,Timber (000s green tonnes),,,,,,Forestry Commission,4980
+2001,Timber (000s green tonnes),,,,,,Forestry Commission,4749
+2002,Timber (000s green tonnes),,,,,,Forestry Commission,4768
+2003,Timber (000s green tonnes),,,,,,Forestry Commission,4934
+2004,Timber (000s green tonnes),,,,,,Forestry Commission,5007
+2005,Timber (000s green tonnes),,,,,,Forestry Commission,4680
+2006,Timber (000s green tonnes),,,,,,Forestry Commission,4627
+2007,Timber (000s green tonnes),,,,,,Forestry Commission,4693
+2008,Timber (000s green tonnes),,,,,,Forestry Commission,4458
+2009,Timber (000s green tonnes),,,,,,Forestry Commission,5213
+2010,Timber (000s green tonnes),,,,,,Forestry Commission,4695
+2011,Timber (000s green tonnes),,,,,,Forestry Commission,4945
+2012,Timber (000s green tonnes),,,,,,Forestry Commission,4891
+2013,Timber (000s green tonnes),,,,,,Forestry Commission,5162
+2014,Timber (000s green tonnes),,,,,,Forestry Commission,4971
+2015,Timber (000s green tonnes),,,,,,Forestry Commission,4764
+2016,Timber (000s green tonnes),,,,,,Forestry Commission,5079
+2000,Timber (000s green tonnes),,,,,,Private,3096
+2001,Timber (000s green tonnes),,,,,,Private,3377
+2002,Timber (000s green tonnes),,,,,,Private,3295
+2003,Timber (000s green tonnes),,,,,,Private,3536
+2004,Timber (000s green tonnes),,,,,,Private,3645
+2005,Timber (000s green tonnes),,,,,,Private,3991
+2006,Timber (000s green tonnes),,,,,,Private,4053
+2007,Timber (000s green tonnes),,,,,,Private,4483
+2008,Timber (000s green tonnes),,,,,,Private,4211
+2009,Timber (000s green tonnes),,,,,,Private,3715
+2010,Timber (000s green tonnes),,,,,,Private,5098
+2011,Timber (000s green tonnes),,,,,,Private,5651
+2012,Timber (000s green tonnes),,,,,,Private,5761
+2013,Timber (000s green tonnes),,,,,,Private,6335
+2014,Timber (000s green tonnes),,,,,,Private,7094
+2015,Timber (000s green tonnes),,,,,,Private,6458
+2016,Timber (000s green tonnes),,,,,,Private,6245
 2000,Timber (000s green tonnes),,,,,Softwood,,7422
 2001,Timber (000s green tonnes),,,,,Softwood,,7494
 2002,Timber (000s green tonnes),,,,,Softwood,,7443
@@ -771,4 +830,207 @@ Year,Units,Crop Category,Crop,Livestock,Geography,Timber Category,Ownership,Valu
 2014,Timber (000s green tonnes),,,,Northern Ireland,Hardwood,Private,0
 2015,Timber (000s green tonnes),,,,Northern Ireland,Hardwood,Private,0
 2016,Timber (000s green tonnes),,,,Northern Ireland,Hardwood,Private,0
-2016,Timber (000s green tonnes),,,,Northern Ireland,Hardwood,Private,0
+2000,Timber (000s green tonnes),,,,England,,,2232
+2001,Timber (000s green tonnes),,,,England,,,2173
+2002,Timber (000s green tonnes),,,,England,,,2007
+2003,Timber (000s green tonnes),,,,England,,,2061
+2004,Timber (000s green tonnes),,,,England,,,2100
+2005,Timber (000s green tonnes),,,,England,,,2203
+2006,Timber (000s green tonnes),,,,England,,,2104
+2007,Timber (000s green tonnes),,,,England,,,2209
+2008,Timber (000s green tonnes),,,,England,,,2116
+2009,Timber (000s green tonnes),,,,England,,,2216
+2010,Timber (000s green tonnes),,,,England,,,2290
+2011,Timber (000s green tonnes),,,,England,,,2398
+2012,Timber (000s green tonnes),,,,England,,,2470
+2013,Timber (000s green tonnes),,,,England,,,2583
+2014,Timber (000s green tonnes),,,,England,,,2700
+2015,Timber (000s green tonnes),,,,England,,,2569
+2016,Timber (000s green tonnes),,,,England,,,2662
+2000,Timber (000s green tonnes),,,,England,,Forestry Commission,1270
+2001,Timber (000s green tonnes),,,,England,,Forestry Commission,1205
+2002,Timber (000s green tonnes),,,,England,,Forestry Commission,1211
+2003,Timber (000s green tonnes),,,,England,,Forestry Commission,1214
+2004,Timber (000s green tonnes),,,,England,,Forestry Commission,1308
+2005,Timber (000s green tonnes),,,,England,,Forestry Commission,1255
+2006,Timber (000s green tonnes),,,,England,,Forestry Commission,1194
+2007,Timber (000s green tonnes),,,,England,,Forestry Commission,1248
+2008,Timber (000s green tonnes),,,,England,,Forestry Commission,1140
+2009,Timber (000s green tonnes),,,,England,,Forestry Commission,1291
+2010,Timber (000s green tonnes),,,,England,,Forestry Commission,1207
+2011,Timber (000s green tonnes),,,,England,,Forestry Commission,1253
+2012,Timber (000s green tonnes),,,,England,,Forestry Commission,1204
+2013,Timber (000s green tonnes),,,,England,,Forestry Commission,1261
+2014,Timber (000s green tonnes),,,,England,,Forestry Commission,1133
+2015,Timber (000s green tonnes),,,,England,,Forestry Commission,1090
+2016,Timber (000s green tonnes),,,,England,,Forestry Commission,1209
+2000,Timber (000s green tonnes),,,,England,,Private,962
+2001,Timber (000s green tonnes),,,,England,,Private,969
+2002,Timber (000s green tonnes),,,,England,,Private,796
+2003,Timber (000s green tonnes),,,,England,,Private,847
+2004,Timber (000s green tonnes),,,,England,,Private,792
+2005,Timber (000s green tonnes),,,,England,,Private,948
+2006,Timber (000s green tonnes),,,,England,,Private,910
+2007,Timber (000s green tonnes),,,,England,,Private,961
+2008,Timber (000s green tonnes),,,,England,,Private,976
+2009,Timber (000s green tonnes),,,,England,,Private,925
+2010,Timber (000s green tonnes),,,,England,,Private,1083
+2011,Timber (000s green tonnes),,,,England,,Private,1144
+2012,Timber (000s green tonnes),,,,England,,Private,1265
+2013,Timber (000s green tonnes),,,,England,,Private,1323
+2014,Timber (000s green tonnes),,,,England,,Private,1567
+2015,Timber (000s green tonnes),,,,England,,Private,1480
+2016,Timber (000s green tonnes),,,,England,,Private,1453
+2000,Timber (000s green tonnes),,,,Wales,,,1103
+2001,Timber (000s green tonnes),,,,Wales,,,1182
+2002,Timber (000s green tonnes),,,,Wales,,,1247
+2003,Timber (000s green tonnes),,,,Wales,,,1188
+2004,Timber (000s green tonnes),,,,Wales,,,1095
+2005,Timber (000s green tonnes),,,,Wales,,,957
+2006,Timber (000s green tonnes),,,,Wales,,,946
+2007,Timber (000s green tonnes),,,,Wales,,,986
+2008,Timber (000s green tonnes),,,,Wales,,,908
+2009,Timber (000s green tonnes),,,,Wales,,,1062
+2010,Timber (000s green tonnes),,,,Wales,,,1095
+2011,Timber (000s green tonnes),,,,Wales,,,1214
+2012,Timber (000s green tonnes),,,,Wales,,,1299
+2013,Timber (000s green tonnes),,,,Wales,,,1412
+2014,Timber (000s green tonnes),,,,Wales,,,1484
+2015,Timber (000s green tonnes),,,,Wales,,,1403
+2016,Timber (000s green tonnes),,,,Wales,,,1448
+2000,Timber (000s green tonnes),,,,Wales,,Forestry Commission,763
+2001,Timber (000s green tonnes),,,,Wales,,Forestry Commission,794
+2002,Timber (000s green tonnes),,,,Wales,,Forestry Commission,904
+2003,Timber (000s green tonnes),,,,Wales,,Forestry Commission,889
+2004,Timber (000s green tonnes),,,,Wales,,Forestry Commission,792
+2005,Timber (000s green tonnes),,,,Wales,,Forestry Commission,684
+2006,Timber (000s green tonnes),,,,Wales,,Forestry Commission,615
+2007,Timber (000s green tonnes),,,,Wales,,Forestry Commission,586
+2008,Timber (000s green tonnes),,,,Wales,,Forestry Commission,558
+2009,Timber (000s green tonnes),,,,Wales,,Forestry Commission,725
+2010,Timber (000s green tonnes),,,,Wales,,Forestry Commission,648
+2011,Timber (000s green tonnes),,,,Wales,,Forestry Commission,695
+2012,Timber (000s green tonnes),,,,Wales,,Forestry Commission,667
+2013,Timber (000s green tonnes),,,,Wales,,Forestry Commission,696
+2014,Timber (000s green tonnes),,,,Wales,,Forestry Commission,723
+2015,Timber (000s green tonnes),,,,Wales,,Forestry Commission,697
+2016,Timber (000s green tonnes),,,,Wales,,Forestry Commission,781
+2000,Timber (000s green tonnes),,,,Wales,,Private,340
+2001,Timber (000s green tonnes),,,,Wales,,Private,388
+2002,Timber (000s green tonnes),,,,Wales,,Private,343
+2003,Timber (000s green tonnes),,,,Wales,,Private,299
+2004,Timber (000s green tonnes),,,,Wales,,Private,303
+2005,Timber (000s green tonnes),,,,Wales,,Private,273
+2006,Timber (000s green tonnes),,,,Wales,,Private,331
+2007,Timber (000s green tonnes),,,,Wales,,Private,399
+2008,Timber (000s green tonnes),,,,Wales,,Private,350
+2009,Timber (000s green tonnes),,,,Wales,,Private,337
+2010,Timber (000s green tonnes),,,,Wales,,Private,447
+2011,Timber (000s green tonnes),,,,Wales,,Private,519
+2012,Timber (000s green tonnes),,,,Wales,,Private,631
+2013,Timber (000s green tonnes),,,,Wales,,Private,715
+2014,Timber (000s green tonnes),,,,Wales,,Private,762
+2015,Timber (000s green tonnes),,,,Wales,,Private,706
+2016,Timber (000s green tonnes),,,,Wales,,Private,667
+2000,Timber (000s green tonnes),,,,Scotland,,,4385
+2001,Timber (000s green tonnes),,,,Scotland,,,4345
+2002,Timber (000s green tonnes),,,,Scotland,,,4394
+2003,Timber (000s green tonnes),,,,Scotland,,,4766
+2004,Timber (000s green tonnes),,,,Scotland,,,5048
+2005,Timber (000s green tonnes),,,,Scotland,,,5111
+2006,Timber (000s green tonnes),,,,Scotland,,,5243
+2007,Timber (000s green tonnes),,,,Scotland,,,5589
+2008,Timber (000s green tonnes),,,,Scotland,,,5223
+2009,Timber (000s green tonnes),,,,Scotland,,,5203
+2010,Timber (000s green tonnes),,,,Scotland,,,5947
+2011,Timber (000s green tonnes),,,,Scotland,,,6502
+2012,Timber (000s green tonnes),,,,Scotland,,,6453
+2013,Timber (000s green tonnes),,,,Scotland,,,7094
+2014,Timber (000s green tonnes),,,,Scotland,,,7483
+2015,Timber (000s green tonnes),,,,Scotland,,,6890
+2016,Timber (000s green tonnes),,,,Scotland,,,6837
+2000,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2620
+2001,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2354
+2002,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2268
+2003,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2405
+2004,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2528
+2005,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2388
+2006,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2454
+2007,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2497
+2008,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2363
+2009,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2774
+2010,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2436
+2011,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2567
+2012,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2627
+2013,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2820
+2014,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2750
+2015,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2645
+2016,Timber (000s green tonnes),,,,Scotland,,Forestry Commission,2747
+2000,Timber (000s green tonnes),,,,Scotland,,Private,1765
+2001,Timber (000s green tonnes),,,,Scotland,,Private,1991
+2002,Timber (000s green tonnes),,,,Scotland,,Private,2126
+2003,Timber (000s green tonnes),,,,Scotland,,Private,2360
+2004,Timber (000s green tonnes),,,,Scotland,,Private,2520
+2005,Timber (000s green tonnes),,,,Scotland,,Private,2723
+2006,Timber (000s green tonnes),,,,Scotland,,Private,2789
+2007,Timber (000s green tonnes),,,,Scotland,,Private,3093
+2008,Timber (000s green tonnes),,,,Scotland,,Private,2860
+2009,Timber (000s green tonnes),,,,Scotland,,Private,2429
+2010,Timber (000s green tonnes),,,,Scotland,,Private,3511
+2011,Timber (000s green tonnes),,,,Scotland,,Private,3935
+2012,Timber (000s green tonnes),,,,Scotland,,Private,3825
+2013,Timber (000s green tonnes),,,,Scotland,,Private,4274
+2014,Timber (000s green tonnes),,,,Scotland,,Private,4732
+2015,Timber (000s green tonnes),,,,Scotland,,Private,4246
+2016,Timber (000s green tonnes),,,,Scotland,,Private,4091
+2000,Timber (000s green tonnes),,,,Northern Ireland,,,356
+2001,Timber (000s green tonnes),,,,Northern Ireland,,,425
+2002,Timber (000s green tonnes),,,,Northern Ireland,,,415
+2003,Timber (000s green tonnes),,,,Northern Ireland,,,454
+2004,Timber (000s green tonnes),,,,Northern Ireland,,,410
+2005,Timber (000s green tonnes),,,,Northern Ireland,,,400
+2006,Timber (000s green tonnes),,,,Northern Ireland,,,387
+2007,Timber (000s green tonnes),,,,Northern Ireland,,,393
+2008,Timber (000s green tonnes),,,,Northern Ireland,,,423
+2009,Timber (000s green tonnes),,,,Northern Ireland,,,447
+2010,Timber (000s green tonnes),,,,Northern Ireland,,,463
+2011,Timber (000s green tonnes),,,,Northern Ireland,,,483
+2012,Timber (000s green tonnes),,,,Northern Ireland,,,432
+2013,Timber (000s green tonnes),,,,Northern Ireland,,,407
+2014,Timber (000s green tonnes),,,,Northern Ireland,,,398
+2015,Timber (000s green tonnes),,,,Northern Ireland,,,393
+2016,Timber (000s green tonnes),,,,Northern Ireland,,,399
+2000,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,326
+2001,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,396
+2002,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,385
+2003,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,424
+2004,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,380
+2005,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,353
+2006,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,364
+2007,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,363
+2008,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,398
+2009,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,423
+2010,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,405
+2011,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,430
+2012,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,392
+2013,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,384
+2014,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,365
+2015,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,365
+2016,Timber (000s green tonnes),,,,Northern Ireland,,Forestry Commission,365
+2000,Timber (000s green tonnes),,,,Northern Ireland,,Private,29
+2001,Timber (000s green tonnes),,,,Northern Ireland,,Private,29
+2002,Timber (000s green tonnes),,,,Northern Ireland,,Private,29
+2003,Timber (000s green tonnes),,,,Northern Ireland,,Private,29
+2004,Timber (000s green tonnes),,,,Northern Ireland,,Private,30
+2005,Timber (000s green tonnes),,,,Northern Ireland,,Private,47
+2006,Timber (000s green tonnes),,,,Northern Ireland,,Private,23
+2007,Timber (000s green tonnes),,,,Northern Ireland,,Private,29
+2008,Timber (000s green tonnes),,,,Northern Ireland,,Private,25
+2009,Timber (000s green tonnes),,,,Northern Ireland,,Private,24
+2010,Timber (000s green tonnes),,,,Northern Ireland,,Private,57
+2011,Timber (000s green tonnes),,,,Northern Ireland,,Private,53
+2012,Timber (000s green tonnes),,,,Northern Ireland,,Private,40
+2013,Timber (000s green tonnes),,,,Northern Ireland,,Private,23
+2014,Timber (000s green tonnes),,,,Northern Ireland,,Private,33
+2015,Timber (000s green tonnes),,,,Northern Ireland,,Private,28
+2016,Timber (000s green tonnes),,,,Northern Ireland,,Private,34

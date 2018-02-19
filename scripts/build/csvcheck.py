@@ -42,6 +42,8 @@ def check_csv(csv):
     status = status & check_headers(df, csv)
     status = status & check_data_types(df, csv)
     status = status & check_trailing_whitespace(df, csv)
+    status = status & check_leading_whitespace(df, csv)
+    status = status & check_empty_rows(df, csv)
 
     return status
 
@@ -106,6 +108,32 @@ def check_trailing_whitespace(df, csv):
             if has_trailing_ws:
                 status = False
                 print(csv, ': Trailing whitespace in column: ', column)
+    return status
+
+# %% Check for trailing whitespace in character columns
+
+
+def check_leading_whitespace(df, csv):
+    """Loop over string columns and check for any leading whitespace"""
+    status = True
+    for column in df:
+        if is_string(df[column]):
+            has_leading_ws = df[column].str.startswith(' ', na=False).any()
+            if has_leading_ws:
+                status = False
+                print(csv, ': Leading whitespace in column: ', column)
+    return status
+
+# %% Check for empty rows
+
+
+def check_empty_rows(df, csv):
+    """Check for rows that are completely empty"""
+    status = True
+    empty_rows = df.isnull().all(axis=1)
+    if empty_rows.any():
+        status = False
+        print(csv, ': Empty row on rows: ', np.where(empty_rows)[0])
     return status
 
 # %% Read each csv and run the checks
