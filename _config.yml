@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: U.K. Indicators For The Sustainable Development Goals
+title: Max's proof of concept reporting platform
 description: Data Platform Prototype
 baseurl: "/sdg-indicators" # the subpath of your site, e.g. /blog
 url: ""
@@ -25,9 +25,9 @@ email_contacts:
 ###################################################################################################
 
 #Github Repo
-repo_name: sdg-indicators
+repo_name: test_site
 branch: develop
-org_name: datasciencecampus
+org_name: MaxEngledewAdmin
 
 # Build settings
 markdown: kramdown
@@ -38,8 +38,8 @@ exclude: [vendor, scripts]
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: UK
-  adjective: UK
+  name: Maxland
+  adjective: Maxfords
 
 # Pages
 collections:
