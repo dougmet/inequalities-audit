@@ -130,9 +130,7 @@
         
         <!-- Tab panes -->
         <div class="tab-content">
-          <div role="tabpanel" class="tab-pane active" id="metadata">
-            <!-- National Metadata -->
-            <div class="collapsible expanded">
+            <div role="tabpanel" class="tab-pane active" id="metadata">
               <h3 tabindex='0'>National Metadata<span> (Collapse)</span></h3>
               <article>
                 <p>This table provides metadata for the actual indicator available from {{ site.country.name }} statistics closest to the corresponding global
@@ -141,17 +139,13 @@
                   {% include components/metadata.html scope='national' %}
               </article>
             </div>
-		  </div>
- 
-          {% if site.environment == 'staging' %}
-          <div role="tabpanel" class="tab-pane" id="edit">
-            <div class="edit-container">
-              <a class="btn btn-primary" href="http://prose.io/#{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/data/indicator_{{ page.indicator | slugify }}.csv">Edit Data</a>
-              <a class="btn btn-primary" href="http://prose.io/#{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/_indicators/{{ page.indicator | slugify }}.md">Edit Metadata</a>
-            </div>
-          </div>
-          {% endif %}
-        </div>
+			<div role="tabpanel" class="tab-pane" id="edit">
+		       <div class="edit-container">
+                  <a class="btn btn-primary" href="http://prose.io/#{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/data/indicator_{{ page.indicator | slugify }}.csv">Edit Data</a>
+                  <a class="btn btn-primary" href="http://prose.io/#{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/_indicators/{{ page.indicator | slugify }}.md">Edit Metadata</a>
+               </div>
+		    </div>
+		</div>
       </section>
     </div>
   </div>
