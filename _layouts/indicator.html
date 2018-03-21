@@ -109,26 +109,11 @@
         </div>
         {% endif %}
         
-        <div class="alert alert-warning" role="alert">
-          <i class="fa fa-info" aria-hidden="true"></i> See metadata tab for definitions and methodology information
-        </div>
-        
-        <!-- Nav tabs -->
-        <ul class="nav nav-tabs" role="tablist">
-          <li role="presentation" class="nav-item active">
-            <a class="nav-link" data-toggle="tab" href="#metadata" aria-controls="metadata" role="tab">Metadata</a>
-          </li>
-          {% if site.environment == 'staging' %}
-          <li role="presentation" class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#edit" aria-controls="edit" role="tab">Edit</a>
-          </li>
-          {% endif %}
-        </ul>
+               
         
         <!-- Tab panes -->
-        <div class="tab-content">
-            <div role="tabpanel" class="tab-pane active" id="metadata">
-              <h3 tabindex='0'>National Metadata<span> (Collapse)</span></h3>
+            <div  id="metadata">
+              <h3 tabindex='0'>National Metadata</h3>
               <article>
                 <p>This table provides metadata for the actual indicator available from {{ site.country.name }} statistics closest to the corresponding global
                   SDG indicator. Please note that even when the global SDG indicator is fully available from {{ site.country.adjective }} statistics, this table
@@ -136,12 +121,13 @@
                   {% include components/metadata.html scope='national' %}
               </article>
             </div>
-			<div role="tabpanel" class="tab-pane" id="edit">
+			{% if site.environment == 'staging' %}
+			<div  id="edit">
 		       <div class="edit-container">
-                  <a class="btn btn-primary" href="http://prose.io/#{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/data/indicator_{{ page.indicator | slugify }}.csv">Edit Data</a>
-                  <a class="btn btn-primary" href="http://prose.io/#{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/_indicators/{{ page.indicator | slugify }}.md">Edit Metadata</a>
+                  <a class="btn btn-primary" href="http://prose.io/#{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/_indicators/{{ page.indicator | slugify }}.md">Edit</a>
                </div>
 		    </div>
+			{% endif %}
 		</div>
       </section>
     </div>
