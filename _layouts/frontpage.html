@@ -5,13 +5,12 @@
     <h1>UK data on protected characteristics</h1>
 
     <p>Click on each protected characteristic<span style="display:none" id="jump-to-search">, <a href="javascript:void(0)">or search</a>,</span> for sources of information on each</p>
-    {% assign sdg_goals = site.data.sdg_goals %}
 
-    {% for goal in sdg_goals %}
+    {% for goal in site['goals'] %}
         {% cycle 'add row' : '<div class="row no-gutters">', '', '', %}
             <div class="col-xs-12 col-md-4">
-                <a href="./{{ goal.short | slugify }}/">
-                  <img src="{{ site.baseurl }}/assets/img/goals/{{ goal.goal }}.png" id="goal-{{ goal.goal }}" alt="{{ goal.short }} - Goal {{ goal.goal }}" />
+                <a href="./{{ goal.permalink | slugify }}/">
+                  <img src="{{ site.baseurl }}/assets/img/goals/{{ goal.goal }}.png" id="goal-{{ goal.goal }}" alt="{{ goal.title }} - Goal {{ goal.goal }}" />
               </a>
             </div>
         {% cycle 'end row' : '', '', '</div>' %}

@@ -1,6 +1,6 @@
 {% include head.html %}
 {% include header.html %}
-{% assign goal = site.data.sdg_goals | where: "goal", page.sdg_goal | first %}
+{% assign goal = site.data.goals | where: "goal", page.goal | first %}
 {% capture goal_uri %}{{ site.baseurl }}/{{ goal.short | slugify }}{% endcapture %}
 
 {% if page.reporting_status != "complete" or page.data_non_statistical == true %}
@@ -12,18 +12,18 @@
 {% include components/fields-template.html %}
 {% include components/units-template.html %}
 
-<div class="heading indicator goal-{{page.sdg_goal}}">
+<div class="heading indicator goal-{{page.goal}}">
   <div class="container">
     <div class="row">
       <div class="col-xs-4 col-md-3 col-lg-2">
         <a href="{{ goal_uri }}" title="View this goal's indicator list">
-          <img src="{{ site.baseurl }}/assets/img/goals/{{ page.sdg_goal }}.png" alt="{{ goal.short }} - Goal {{ goal.goal }}" />
+          <img src="{{ site.baseurl }}/assets/img/goals/{{ page.goal }}.png" alt="{{ goal.short }} - Goal {{ goal.goal }}" />
         </a>
       </div>
       <div class="col-xs-8 col-md-9 col-lg-10">
         <h1>
           <a href="{{ goal_uri }}">
-            <span class="hidden-sm hidden-md hidden-lg">Goal {{page.sdg_goal}}: </span>{{ goal.title }}
+            <span class="hidden-sm hidden-md hidden-lg">Goal {{page.goal}}: </span>{{ goal.title }}
           </a>
         </h1>
         <h2>Indicator {{ page.indicator }}: {{ page.title }}</h2>
@@ -32,7 +32,7 @@
   </div>
 </div>
 
-<div id="main-content" class="container goal-{{page.sdg_goal}}">
+<div id="main-content" class="container goal-{{page.goal}}">
   
   {% capture goal_href %}{{ goal_uri }}{% endcapture %}
   {% capture goal_number %}{{ goal.goal }}{% endcapture %}

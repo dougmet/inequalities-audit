@@ -102,7 +102,7 @@ def build_meta_data(index, row):
     "title": row['IndicatorTitle'],
     "indicator_name": row['IndicatorTitle'],
     "permalink": row['Permalink'],
-    "sdg_goal": row['Goal'],
+    "goal": row['Goal'],
     "layout": "indicator",
     "indicator": index,
     "un_designated_tier": row['TierNum'],

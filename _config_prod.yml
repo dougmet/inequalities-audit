@@ -65,7 +65,7 @@ prose:
             element: text
             label: "Page Title"
             scope: page
-      - name: "sdg_goal"
+      - name: "goal"
         field:
             element: hidden
             label: "SDG Goal"

@@ -1,8 +1,8 @@
 ---
 ---
-{% assign sdg_goals = site.data.sdg_goals %}
+{% assign goals = site.data.goals %}
 [
-  {% for goal in sdg_goals %}
+  {% for goal in goals %}
   {
     "goal": {
       "id": "{{goal.goal}}",

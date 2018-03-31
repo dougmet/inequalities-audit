@@ -43,13 +43,13 @@
   
   <h2>Status by Goal</h2>
 
-  {% assign sdg_goals = site.data.sdg_goals %}
+  {% assign goals = site.data.goals %}
     <!--<ul style="list-style-type: decimal; margin-left: 50px;margin-bottom: 30px;margin-top:30px;">-->
-      {% for goal in sdg_goals %}
+      {% for goal in goals %}
 
         {% assign indicators = site.data.sdg_indicator_metadata | where:'goal', goal.goal %}
       
-        {% assign goal_indicators = site.indicators | where: 'sdg_goal', goal.goal %}
+        {% assign goal_indicators = site.indicators | where: 'goal', goal.goal %}
         {% assign goal_indicator_count = goal_indicators | size %}
         {% assign exploring_count = goal_indicators | where: 'reporting_status', 'notstarted' | size %}
         {% assign in_progress_count = goal_indicators | where: 'reporting_status', 'inprogress' | size %}
