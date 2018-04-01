@@ -27,7 +27,7 @@ email_contacts:
 #Github Repo
 repo_name: inequalities-audit
 branch: develop
-org_name: dougmet
+org_name: MaxEngledewAdmin
 
 # Build settings
 markdown: kramdown
