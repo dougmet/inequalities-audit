@@ -67,8 +67,27 @@ prose:
             scope: page
       - name: "goal"
         field:
-            element: hidden
-            label: "SDG Goal"
+            element: multiselect
+            label: "Goal"
+            options:
+              - name: 'Age'
+                value: 'Age'
+              - name: 'Sex'
+                value: 'Sex'
+              - name: 'Sexual Orientation'
+                value: 'SexOrientation'
+              - name: 'Race'
+                value: 'Race'
+              - name: 'Disability'
+                value: 'Disability'
+              - name: 'GenderReassign'
+                value: 'GenderReassign'
+              - name: 'Religion'
+                value: 'Religion'
+              - name: 'Marriage'
+                value: 'Marriage'
+              - name: 'Maternity'
+                value: 'Maternity'
             scope: page
       - name: "permalink"
         field:
