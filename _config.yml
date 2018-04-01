@@ -27,7 +27,7 @@ email_contacts:
 #Github Repo
 repo_name: inequalities-audit
 branch: develop
-org_name: MaxEngledewAdmin
+org_name: dougmet
 
 # Build settings
 markdown: kramdown
@@ -96,52 +96,6 @@ prose:
             element: text
             label: "Target Name"
             scope: global
-      - name: "target_id"
-        field:
-            element: text
-            label: "Target Number"
-            scope: global
-      - name: "indicator_definition"
-        field:
-            element: textarea
-            label: "Global Indicator Description"
-            scope: global
-      - name: "un_designated_tier"
-        field: 
-            element: text
-            label: "UN Designated Tier"
-            scope: global
-      - name: "un_custodian_agency"
-        field: 
-            element: text
-            label: "UN Custodian Agency"
-            scope: global
-      - name: "un_partner_agency"
-        field: 
-            element: text
-            label: "UN Partner Agency"
-            scope: global
-      - name: "un_sd_indicator_code"
-        field: 
-            element: text
-            label: "UNSD Indicator Code"
-            scope: global
-      - name: "un_notes"
-        field: 
-            element: text
-            label: "UN Indicator Notes"
-            scope: global
-      - name: "goal_meta_link"
-        field:
-            element: text
-            label: "Link to UN Metadata"
-            scope: global
-      - name: "goal_meta_link_text"
-        field:
-            element: text
-            label: "Link to UN Metadata Text"
-            value: "UN Metadata"
-            scope: global
       ######### National Metadata #########
       - name: "national_indicator_available"
         field:
@@ -175,59 +129,6 @@ prose:
             help: "A date in YYYY-MM-DD format"
             placeholder: "YYYY-MM-DD"
             scope: national
-      - name: "admin_next_release"
-        field:
-            element: text
-            label: "Next Release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: national
-      - name: "admin_statistical_classification"
-        field:
-            element: text
-            label: "Statistical Classification"
-            scope: national
-      - name: "computation_disaggregation"
-        field:
-            element: text
-            label: "Disaggregation"
-            scope: national
-      - name: "comments_limitations"
-        field:
-            element: text
-            label: "Comments and Limitations"
-            scope: national
-      - name: "admin_contact_details"
-        field:
-            element: text
-            label: "Contact Details"
-            scope: national
-      ######### Method of Computation #########
-      - name: "computation_units"
-        field:
-            element: text
-            label: "Unit of Measurement"
-            scope: computation
-      - name: "computation_calculations"
-        field:
-            element: text
-            label: "Calculations"
-            scope: computation
-      - name: "computation_numerator"
-        field:
-            element: text
-            label: "Numerator"
-            scope: computation
-      - name: "computation_denominator"
-        field:
-            element: text
-            label: "Denominator"
-            scope: computation
-      - name: "computation_definitions"
-        field:
-            element: textarea
-            label: "Definitions"
-            scope: computation
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
@@ -363,78 +264,7 @@ prose:
             element: textarea
             label: "Other Information"
             scope: source_2
-      ## Source 3
-      - name: source_active_3
-        field:
-            element: checkbox
-            label: Source 3 Active
-            help: Whether or not to display this source
-            value: false
-      - name: source_organisation_3
-        field:
-            element: text
-            label: "Organisation"
-            scope: source_3
-      - name: "source_periodicity_3"
-        field:
-            element: text
-            label: "Periodicity"
-            scope: source_3
-      - name: "source_earliest_available_3"
-        field:
-            element: text
-            label: "Earliest Available Data"
-            scope: source_3
-      - name: "source_geographical_coverage_3"
-        field:
-            element: text
-            label: "Geographical Coverage"
-            scope: source_3
-      - name: "source_url_3"
-        field:
-            element: text
-            label: "Link to Data Source"
-            value: "Link to Source"
-            scope: source_3
-      - name: "source_url_text_3"
-        field:
-            element: text
-            label: "Link to Data Source Text"
-            scope: source_3
-      - name: "source_release_date_3"
-        field:
-            element: text
-            label: "Release Date"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_3
-      - name: "source_next_release_3"
-        field:
-            element: text
-            label: "Next Release"
-            help: "A date in YYYY-MM-DD format"
-            placeholder: "YYYY-MM-DD"
-            scope: source_3
-      - name: "source_statistical_classification_3"
-        field:
-            element: text
-            label: "Statistical Classification"
-            scope: source_3
-      - name: "source_contact_3"
-        field:
-            element: text
-            label: "Contact Details"
-            scope: source_3
-      - name: "source_other_info_3"
-        field:
-            element: textarea
-            label: "Other Information"
-            scope: source_3
       ######### Data Info #########
-      - name: "data_edge_list"
-        field: 
-            element: text
-            label: "Data Hierachy Edge List"
       - name: "reporting_status"
         field: 
             element: select 
@@ -452,23 +282,3 @@ prose:
             label: Non-statistical Indicator
             help: Check this box if this indicator does not have numeric data associated with it
             value: false
-      - name: data_footnote
-        field:
-            element: text
-            label: Footnote
-            help: Footnotes appear under the chart and by data tables
-      ######### Chart Info #########
-      - name: "graph_type"
-        field: 
-            element: select 
-            label: "Graph Type"
-            options:
-              - name: 'line'
-                value: 'line'
-              - name: 'bar'
-                value: 'bar'
-      - name: "graph_title"
-        field: 
-            element: text
-            label: "Graph Title"
-    
